@@ -1,0 +1,587 @@
+X-Apparently-To: thuanthienkiemqn@yahoo.com.vn via 106.10.144.229; Mon, 25 Aug 2014 03:14:38 +0000
+Return-Path: <notification+zrdodizgfvie@facebookmail.com>
+Received-SPF: pass (domain of facebookmail.com designates 66.220.155.150 as permitted sender)
+X-YMailISG: Bc2nf8AWLDu5FAF4SAQbp0zpm4xyWGi_liDCUk5mTZCalPpt
+ _Nl8yvcPKFyVutHxhvg2HU12CBOjUGvF9pLV8dYd0NlIArodjuqYjUqgzVpX
+ 6SueBahPsWwE2nMZ1plE7YDMnX_hsWFonfuMKbiQlkzbKECVP853btcagt1V
+ d.ar7ck0A_ynJ0uAydH3XKx0bYRivTaLTHZAL0GJuX0GCp82JxJmox5Gwk7O
+ jyuB1EWwYbbTawp6Z.8izAKS8TG1JDklG8BN5tFOlgj6jtvsuJ.X3l96OSJV
+ VFaFTVD8rpy9wY6KQTNddrX5IcS_FRCFgEVz9ni8GfFiJb1.Vj2_ZKGqGrOZ
+ AAIaKs.eEhBAdYcqR_yRku.RHEdCzVFGQ6bwrnlclowiJZU2HZ1FgVrg2e7T
+ 6hoo1cjAczl5HIEck_O.Q2VdgyJGO78EbT6AdOnKyUALzZR4FBrobWL3i.cH
+ oOOgvnotUjeXOzdXL8usTDKc7mrIP4pqDKlH0xVtVThO9P5fGd0.HbtlSJHn
+ zgNFqBzkLtBI.LQaqOedT6Fc6hT2jNkUSdlk9KgIJxiCjQtwM9zfpseNGyA7
+ Kg49.3tofyS9dzG6A5nr2Bto9nAmZTq8Mq0fDhWSw.d6Bg.XQcvEx3eBiCvN
+ 48O.nBtRlOQF1RlzG77P3d0l9dJXc34ScdGcwuhvrCxZAT7X2uTW0udr4dSC
+ OJUBDg.kPRTXBtXW3PrEzrBxSwEK4Jc6ajBRUrNfnTA7ATqjFSJbW1FJwipr
+ Mph3QzxgSDiW7pofdgXjagtnoxLZVsovJqWgksfJal89a66.2ASqC5.Up.Bs
+ QKosAIfGidxqpgzmSPB8B4ihsBZaTVN27nk.6_ajb.mjfl7zSagD_1iJl9t4
+ t5COdKCYDDDK39yjSs84FrWlgzNLQSJSR8s97.tu45aW1KEN6XS30BV8vPlW
+ 80VfiGAyBxariz560Jj0Vi46GCVGo4K1jjGjbm4qDGjLJ.5PCI_VFdXQPfPx
+ k7VffpMNs.c2ZDipMZtpzJ50NclyqPRPBNSnVA9J_XzXUHgY6IvYQZoDuaJF
+ sG0wkLuRsiI2kwIyLcjFp0HJblYgpGH8KMzKkM87aEz0GEudZ5KylmgRGOT7
+ W2e7pcSFzqrXuuMNM5pgSAL1n0EiJtPWhK1eK18twHn9t.plHIaXps9X4j.Q
+ KF8cdhfC.vz.C1l3KMz_uQU4OX0JQbLPIAr11IWyyLJI5g.aDGuMT12e2kGH
+ 2qmvKiCqP5vn2bdlff1SUC3d658MwiIw7tXSIcuqUBVY4.in3cXVxaaGSuZe
+ WhKiIlEckADtRfHqZEG5yQMYS0mCB3ew.y5g0LfBIyTdvHFB5F2d0xdRRV1D
+ ivndTorfECNGKoB835tmCAZRc3xDIoEW9fIQZwTSxo.EWC3p..lZ3kXxLpfp
+ nfq9vZApYsSfDpQU1HNdoiarETpPkVWImn9QviX5Pdtjz5KCtHrkJdz4rUXl
+ pofDXK9t2vmeE7sfUflOLSUGuD9IkmH5BXVz0VCIGr84
+X-Originating-IP: [66.220.155.150]
+Authentication-Results: mta1002.mail.sg3.yahoo.com  from=facebookmail.com; domainkeys=neutral (no sig);  from=facebookmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mx-out.facebook.com) (66.220.155.150)
+  by mta1002.mail.sg3.yahoo.com with SMTPS; Mon, 25 Aug 2014 03:14:38 +0000
+Received: from facebook.com (8qFzElZ94IMBP+v0y1Kci+JJOLsZIJGwAn+qVAG49UWmGliCn1et/YCyw7OwhbWW 10.158.104.97)
+ by facebook.com with Thrift id f196a36c2c0511e4a3c70002c9559000-181fa3e0;
+ Sun, 24 Aug 2014 20:14:36 -0700
+X-Facebook: from 2401:db00:2050:3095:face:0:3d:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Sun, 24 Aug 2014 20:14:36 -0700
+Return-Path: notification+zrdodizgfvie@facebookmail.com
+To: Linux Win <thuanthienkiemqn@yahoo.com.vn>
+From: "Facebook" <notification+zrdodizgfvie@facebookmail.com>
+Reply-to: =?UTF-8?B?VHLhuqMgbOG7nWkgQsOsbmggbHU=?=
+ =?UTF-8?B?4bqtbg==?= <e+1t3ic0c000zg5283e8h005av5fk6eye0000000000000000000000002pg1i@reply.facebook.com>
+Subject: =?UTF-8?B?QW5oIFRoacOqbiDEkcOjIMSRxIM=?=
+ =?UTF-8?B?bmcgbMOqbiBkw7JuZyB0aOG7nQ==?=
+ =?UTF-8?B?aSBnaWFuIGPhu6dhIFF1eSA=?=
+ =?UTF-8?B?TmjGoW4gMzBz?=
+Message-ID: <c26ac049d02f02e6e9d01301c2256714@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zrdodizgfvie@facebookmail.com
+X-Facebook-Notify: wall; mailid=a64a74aG5af3ec870ad1G20eab7bG1Ge7f7
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c26ac049d02f02e6e9d01301c2256714"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1408936476;
+	bh=OnOd5YDak2LSiHcXT6XTV8oGN5oH1M8OKQmzEzmjnVQ=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=mOWkBvfitOuULBmVEW8oHV6zKguJz3Dm53roffCXewuEBAQaHV5t9laFYoqflBLtZ
+	 HgKaWgkzJdbhRtBLd+ZR1k6MtQkA10qXmXrffgObKIjWkwXUupl8uM+Y13aAQQ8jE8
+	 iMZ3CobO0r3UwMz0Zy1Pu2yjOkotbGlmp7ufpRUA=
+Content-Length: 34002
+
+
+--b1_c26ac049d02f02e6e9d01301c2256714
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Xem b=C3=A0i vi=E1=BA=BFt
+https://www.facebook.com/n/?quynhon30s%2Fposts_to_page&aref=3D34515835&med=
+ium=3Demail&mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&bcode=3D1.1408936476=
+.AbnZZ_Gpyoc9YnJ9&n_m=3Dthuanthienkiemqn%40yahoo.com.vn
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Xin ch=C3=A0o Linux,
+
+Anh Thi=C3=AAn =C4=91=C3=A3 =C4=91=C4=83ng l=C3=AAn d=C3=B2ng th=E1=BB=9Di =
+gian c=E1=BB=A7a Quy Nh=C6=A1n 30s
+
+"Cty C=E1=BB=95 Ph=E1=BA=A7n Vi=E1=BB=87t-Ph=C3=A1p S=E1=BA=A3n =
+Xu=E1=BA=A5t Th=E1=BB=A9c =C4=83n Gia S=C3=BAc c=E1=BA=A7n tuy=E1=BB=83n =
+[IMG] +K=E1=BA=BF to=C3=A1n thanh to=C3=A1n CN B=C3=ACnh =C4=90=E1=BB=8Bnh =
+=E2=80=A2 M=C3=B4 t=E1=BA=A3 c=C3=B4ng vi=E1=BB=87c - Ti=E1=BA=BFp =
+nh=E1=BA=ADn, ki=E1=BB=83m tra t=C3=ADnh =C4=91=E1=BA=A7y =C4=91=E1=BB=A7, =
+h=E1=BB=A3p ph=C3=A1p c=C3=A1c h=C3=B3a =C4=91=C6=A1n ch=E1=BB=A9ng =
+t=E1=BB=AB =C4=91=E1=BA=A7u v=C3=A0o, =C4=91=E1=BA=A7u ra =C4=91=E1=BA=A3m =
+b=E1=BA=A3o ph=C3=B9 h=E1=BB=A3p theo qui =C4=91=E1=BB=8Bnh c=E1=BB=A7a =
+Nh=C3=A0 n=C6=B0=E1=BB=9Bc. - H=E1=BA=A1ch to=C3=A1n c=C3=A1c b=C3=BAt =
+to=C3=A1n li=C3=AAn quan =C4=91=E1=BA=BFn thu, chi ti=E1=BB=81n =
+m=E1=BA=B7t, ti=E1=BB=81n g=E1=BB=ADi. Ph=E1=BA=A3n =C3=A1nh k=E1=BB=8Bp =
+th=E1=BB=9Di c=C3=A1c kho=E1=BA=A3n thu, chi v=E1=BB=91n b=E1=BA=B1ng =
+ti=E1=BB=81n. Th=E1=BB=B1c hi=E1=BB=87n vi=E1=BB=87c ki=E1=BB=83m tra, =
+=C4=91=E1=BB=91i chi=E1=BA=BFu s=E1=BB=91 li=E1=BB=87u th=C6=B0=E1=BB=9Dng =
+xuy=C3=AAn (cu=E1=BB=91i m=E1=BB=97i ng=C3=A0y v=C3=A0 cu=E1=BB=91i =
+th=C3=A1ng) v=E1=BB=9Bi th=E1=BB=A7 qu=E1=BB=B9 =C4=91=E1=BB=83 =
+b=E1=BA=A3o =C4=91=E1=BA=A3m gi=C3=A1m s=C3=A1t ch=E1=BA=B7t ch=E1=BA=BD =
+v=E1=BB=91n b=E1=BA=B1ng ti=E1=BB=81n. - Th=E1=BB=B1c hi=E1=BB=87n =
+vi=E1=BB=87c giao d=E1=BB=8Bch v=E1=BB=9Bi ng=C3=A2n h=C3=A0ng: r=C3=BAt =
+ti=E1=BB=81n, chuy=E1=BB=83n ti=E1=BB=81n, =C4=91=E1=BB=91i chi=E1=BA=BFu =
+ch=E1=BB=A9ng t=E1=BB=AB, s=E1=BB=95 ph=E1=BB=A5 ng=C3=A2n h=C3=A0ng. - =
+Ph=E1=BB=A5 tr=C3=A1ch (l=E1=BA=ADp, qu=E1=BA=A3n l=C3=BD, gi=E1=BA=A3i =
+quy=E1=BA=BFt, t=E1=BA=A5t to=C3=A1n=E2=80=A6) c=C3=A1c h=E1=BB=A3p =
+=C4=91=E1=BB=93ng t=C3=ADn d=E1=BB=A5ng, c=C3=A1c kho=E1=BA=A3n l=C3=A3i =
+(ti=E1=BB=81n g=E1=BB=ADi, ti=E1=BB=81n vay). - Th=E1=BB=B1c hi=E1=BB=87n =
+vi=E1=BB=87c n=E1=BB=99p thu=E1=BA=BF (nh=E1=BA=ADp kh=E1=BA=A9u, =
+VAT,=E2=80=A6) h=C3=A0ng nh=E1=BA=ADp kh=E1=BA=A9u. - L=E1=BA=ADp b=C3=A1o =
+c=C3=A1o d=E1=BB=B1 ki=E1=BA=BFn thu chi h=C3=A0ng tu=E1=BA=A7n, =
+th=C3=A1ng, c=C3=A2n =C4=91=E1=BB=91i t=C3=A0i ch=C3=ADnh. - =
+=C4=90=E1=BA=A3m b=E1=BA=A3o vi=E1=BB=87c theo d=C3=B5i v=C3=A0 =
+c=E1=BA=ADp nh=E1=BA=ADt ch=E1=BB=A9ng t=E1=BB=AB trung th=E1=BB=B1c, =
+ch=C3=ADnh x=C3=A1c v=C3=A0 k=E1=BB=8Bp th=E1=BB=9Di. L=C6=B0u tr=E1=BB=AF =
+c=C3=A1c ch=E1=BB=A9ng t=E1=BB=AB li=C3=AAn quan =C4=91=E1=BA=BFn =
+c=C3=B4ng vi=E1=BB=87c theo quy =C4=91=E1=BB=8Bnh. Cung c=E1=BA=A5p =
+c=C3=A1c b=C3=A1o c=C3=A1o li=C3=AAn quan ph=E1=BA=A7n h=C3=A0nh =
+ph=E1=BB=A5tr=C3=A1ch theo y=C3=AAu c=E1=BA=A7u c=E1=BB=A7a c=E1=BA=A5p =
+qu=E1=BA=A3n l=C3=BD. -Nh=E1=BA=ADp li=E1=BB=87u v=C3=A0o ph=E1=BA=A7n =
+m=E1=BB=81m, kh=C3=B3a s=E1=BB=95, v=C3=A0 l=E1=BA=ADp b=C3=A1o c=C3=A1o =
+li=C3=AAn quan ph=E1=BA=A7n vi=E1=BB=87c ph=E1=BB=A5 tr=C3=A1ch =
+ch=C3=ADnh; Khi ph=C3=A1t hi=E1=BB=87n l=E1=BB=97i v=C3=A0 c=E1=BA=A7n =
+ph=E1=BA=A3i s=E1=BB=ADa, x=C3=B3a th=C3=AC ph=E1=BA=A3i c=C3=B3 =
+s=E1=BB=B1 =C4=91=E1=BB=93ng =C3=BD c=E1=BB=A7a c=E1=BA=A5p qu=E1=BA=A3n =
+l=C3=BD tr=E1=BB=B1c ti=E1=BA=BFp. Y=C3=AAu c=E1=BA=A7u c=C3=B4ng =
+vi=E1=BB=87c =E2=80=A2 K=E1=BB=B9 n=C4=83ng T=E1=BB=91t nghi=E1=BB=87p =
+=C4=90=E1=BA=A1i h=E1=BB=8Dc chuy=C3=AAn ng=C3=A0nh k=E1=BA=BF to=C3=A1n =
+Am hi=E1=BB=83u v=E1=BB=81 xu=E1=BA=A5t nh=E1=BA=ADp kh=E1=BA=A9u & =
+thu=E1=BA=BF Th=C3=A0nh th=E1=BA=A1o tin h=E1=BB=8Dc v=C4=83n ph=C3=B2ng =
+C=E1=BA=A9n th=E1=BA=ADn, ch=C3=ADnh x=C3=A1c, trung th=E1=BB=B1c C=C3=B3 =
+kinh nghi=E1=BB=87m =E1=BB=9F v=E1=BB=8B tr=C3=AD t=C6=B0=C6=A1ng =
+=C4=91=C6=B0=C6=A1ng & bi=E1=BA=BFt s=E1=BB=AD d=E1=BB=A5ng ph=E1=BA=A7n =
+m=E1=BB=81m k=E1=BA=BF to=C3=A1n l=C3=A0 m=E1=BB=99t l=E1=BB=A3i =
+th=E1=BA=BF =C6=AFu ti=C3=AAn c=C3=A1c =E1=BB=A9ng vi=C3=AAn c=C3=B3 =
+h=E1=BB=99 kh=E1=BA=A9u t=E1=BA=A1i B=C3=ACnh =C4=90=E1=BB=8Bnh v=C3=A0 =
+c=C3=A1c t=E1=BB=89nh l=C3=A2n c=E1=BA=ADn Ch=E1=BA=BF =C4=91=E1=BB=99 =
+kh=C3=A1c =C4=90=C6=B0=E1=BB=A3c tham gia v=C3=A0 h=C6=B0=E1=BB=9Fng =
+=C4=91=E1=BA=A7y =C4=91=E1=BB=A7 c=C3=A1c ch=E1=BA=BF =C4=91=E1=BB=99 =
+l=C6=B0=C6=A1ng, ch=C3=ADnh s=C3=A1ch ph=C3=BAc l=E1=BB=A3i kh=C3=A1c theo =
+lu=E1=BA=ADt =C4=91=E1=BB=8Bnh v=C3=A0 quy =C4=91=E1=BB=8Bnh hi=E1=BB=87n =
+h=C3=A0nh c=E1=BB=A7a c=C3=B4ng ty Y=C3=AAu c=E1=BA=A7u h=E1=BB=93 s=C6=A1 =
+=C4=90=C6=A1n xin vi=E1=BB=87c - S=C6=A1 y=E1=BA=BFu l=C3=BD l=E1=BB=8Bch. =
+- H=E1=BB=99 kh=E1=BA=A9u, ch=E1=BB=A9ng minh nh=C3=A2n d=C3=A2n v=C3=A0 =
+gi=E1=BA=A5y kh=C3=A1m s=E1=BB=A9c kh=E1=BB=8Fe. - C=C3=A1c b=E1=BA=B1ng =
+c=E1=BA=A5p c=C3=B3 li=C3=AAn quan + b=E1=BA=A3ng =C4=91i=E1=BB=83m chi =
+ti=E1=BA=BFt. - 02 h=C3=ACnh 3x4 - B=E1=BA=A3ng k=C3=AA khai qu=C3=A1 =
+tr=C3=ACnh l=C3=A0m vi=E1=BB=87c trong =C4=91=C3=B3 ghi c=E1=BB=A5 =
+th=E1=BB=83 c=C3=A1c v=E1=BB=8B tr=C3=AD =C4=91=C3=A3 t=E1=BB=ABng =
+=C4=91=E1=BA=A3m nhi=E1=BB=87m Vui l=C3=B2ng ghi r=C3=B5 v=E1=BB=8B =
+tr=C3=AD =E1=BB=A9ng tuy=E1=BB=83n v=C3=A0 =C4=91=E1=BB=8Ba =
+=C4=91i=E1=BB=83m l=C3=A0m vi=E1=BB=87c ngo=C3=A0i b=C3=ACa h=E1=BB=93 =
+s=C6=A1 Nh=E1=BA=ADn h=E1=BB=93 s=C6=A1, ph=E1=BB=8Fng v=E1=BA=A5n v=C3=A0 =
+h=E1=BB=8Dc vi=E1=BB=87c t=E1=BA=A1i CN Bi=C3=AAn H=C3=B2a, =
+=C4=90=C6=B0=E1=BB=9Dng s=E1=BB=91 9, KCN Bi=C3=AAn H=C3=B2a I, Bi=C3=AAn =
+H=C3=B2a, =C4=90=E1=BB=93ng Nai Sau khi h=E1=BB=8Dc vi=E1=BB=87c xong =
+s=E1=BA=BD chuy=E1=BB=83n ra l=C3=A0m vi=E1=BB=87c t=E1=BA=A1i CN =
+B=C3=ACnh =C4=90=E1=BB=8Bnh (C=C3=B4ng ty TNHH MTV Con c=C3=B2 B=C3=ACnh =
+=C4=90=E1=BB=8Bnh, L=C3=B4 A2.5, A2.6, KCN Nh=C6=A1n H=C3=B2a, An =
+Nh=C6=A1n, B=C3=ACnh =C4=90=E1=BB=8Bnh =E2=80=A2 H=E1=BA=A1n n=E1=BB=99p =
+h=E1=BB=93 s=C6=A1 30-09-2014 =E2=80=A2=C4=90=E1=BB=8Ba ch=E1=BB=89: Khu =
+C=C3=B4ng Nghi=E1=BB=87p Bi=C3=AAn H=C3=B2a I =C4=90=E1=BB=93ng Nai =
+=C4=90T: 0613 836 404 - 834 127 | Fax: 0613 836 146 Email: =
+webconco@conco.com.vn Website: www.conco.com.vn"
+
+Tr=C3=A2n tr=E1=BB=8Dng c=E1=BA=A3m =C6=A1n!
+Nh=C3=B3m Facebook
+
+Tr=E1=BA=A3 l=E1=BB=9Di email n=C3=A0y =C4=91=E1=BB=83 =C4=91=C3=A3 =
+b=C3=ACnh lu=E1=BA=ADn v=E1=BB=81 b=C3=A0i vi=E1=BA=BFt n=C3=A0y.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Tin nh=E1=BA=AFn n=C3=A0y =C4=91=C3=A3 =C4=91=C6=B0=E1=BB=A3c g=E1=BB=ADi =
+t=E1=BB=9Bi thuanthienkiemqn@yahoo.com.vn. N=E1=BA=BFu b=E1=BA=A1n =
+kh=C3=B4ng mu=E1=BB=91n nh=E1=BA=ADn nh=E1=BB=AFng email nh=C6=B0 =
+th=E1=BA=BF n=C3=A0y t=E1=BB=AB Facebook trong t=C6=B0=C6=A1ng lai, vui =
+l=C3=B2ng nh=E1=BA=A5p v=C3=A0o li=C3=AAn k=E1=BA=BFt b=C3=AAn =
+d=C6=B0=E1=BB=9Bi =C4=91=E1=BB=83 h=E1=BB=A7y =C4=91=C4=83ng k=C3=BD.
+https://www.facebook.com/o.php?k=3DAS2gAdXCJ7uM_2k_&u=3D100003691825873&mi=
+d=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_c26ac049d02f02e6e9d01301c2256714
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;display:none !important;font-size:1px;">Cty =
+C=E1=BB=95 Ph=E1=BA=A7n Vi=E1=BB=87t-Ph=C3=A1p S=E1=BA=A3n Xu=E1=BA=A5t =
+Th=E1=BB=A9c =C4=83n Gia S=C3=BAc c=E1=BA=A7n tuy=E1=BB=83n<br /> [IMG] =
+<br /> +K=E1=BA=BF to=C3=A1n thanh to=C3=A1n CN B=C3=ACnh =
+=C4=90=E1=BB=8Bnh<br /> =E2=80=A2 M=C3=B4 t=E1=BA=A3 c=C3=B4ng =
+vi=E1=BB=87c<br /> - Ti=E1=BA=BFp nh=E1=BA=ADn, ki=E1=BB=83m tra t=C3=ADnh =
+=C4=91=E1=BA=A7y =C4=91=E1=BB=A7, h=E1=BB=A3p ph=C3=A1p c=C3=A1c h=C3=B3a =
+=C4=91=C6=A1n ch=E1=BB=A9ng t=E1=BB=AB =C4=91=E1=BA=A7u v=C3=A0o, =
+=C4=91=E1=BA=A7u ra =C4=91=E1=BA=A3m b=E1=BA=A3o ph=C3=B9 h=E1=BB=A3p theo =
+qui =C4=91=E1=BB=8Bnh c=E1=BB=A7a Nh=C3=A0 n=C6=B0=E1=BB=9Bc.<br /> - =
+H=E1=BA=A1ch to=C3=A1n c=C3=A1c b=C3=BAt to=C3=A1n li=C3=AAn quan =
+=C4=91=E1=BA=BFn thu, chi ti=E1=BB=81n m=E1=BA=B7t, ti=E1=BB=81n =
+g=E1=BB=ADi. Ph=E1=BA=A3n =C3=A1nh k=E1=BB=8Bp th=E1=BB=9Di c=C3=A1c =
+kho=E1=BA=A3n thu, chi v=E1=BB=91n b=E1=BA=B1ng ti=E1=BB=81n. Th=E1=BB=B1c =
+hi=E1=BB=87n vi=E1=BB=87c ki=E1=BB=83m tra, =C4=91=E1=BB=91i chi=E1=BA=BFu =
+s=E1=BB=91 li=E1=BB=87u th=C6=B0=E1=BB=9Dng xuy=C3=AAn (cu=E1=BB=91i =
+m=E1=BB=97i ng=C3=A0y v=C3=A0 cu=E1=BB=91i th=C3=A1ng) v=E1=BB=9Bi =
+th=E1=BB=A7 qu=E1=BB=B9 =C4=91=E1=BB=83 b=E1=BA=A3o =C4=91=E1=BA=A3m =
+gi=C3=A1m s=C3=A1t ch=E1=BA=B7t ch=E1=BA=BD v=E1=BB=91n b=E1=BA=B1ng =
+ti=E1=BB=81n.<br /> - Th=E1=BB=B1c hi=E1=BB=87n vi=E1=BB=87c giao =
+d=E1=BB=8Bch v=E1=BB=9Bi ng=C3=A2n h=C3=A0ng: r=C3=BAt ti=E1=BB=81n, =
+chuy=E1=BB=83n ti=E1=BB=81n, =C4=91=E1=BB=91i chi=E1=BA=BFu ch=E1=BB=A9ng =
+t=E1=BB=AB, s=E1=BB=95 ph=E1=BB=A5 ng=C3=A2n h=C3=A0ng.<br /> - =
+Ph=E1=BB=A5 tr=C3=A1ch (l=E1=BA=ADp, qu=E1=BA=A3n l=C3=BD, gi=E1=BA=A3i =
+quy=E1=BA=BFt, t=E1=BA=A5t to=C3=A1n=E2=80=A6) c=C3=A1c h=E1=BB=A3p =
+=C4=91=E1=BB=93ng t=C3=ADn d=E1=BB=A5ng, c=C3=A1c kho=E1=BA=A3n l=C3=A3i =
+(ti=E1=BB=81n g=E1=BB=ADi, ti=E1=BB=81n vay).<br /> - Th=E1=BB=B1c =
+hi=E1=BB=87n vi=E1=BB=87c n=E1=BB=99p thu=E1=BA=BF (nh=E1=BA=ADp =
+kh=E1=BA=A9u, VAT,=E2=80=A6) h=C3=A0ng nh=E1=BA=ADp kh=E1=BA=A9u.<br /> - =
+L=E1=BA=ADp b=C3=A1o c=C3=A1o d=E1=BB=B1 ki=E1=BA=BFn thu chi h=C3=A0ng =
+tu=E1=BA=A7n, th=C3=A1ng, c=C3=A2n =C4=91=E1=BB=91i t=C3=A0i =
+ch=C3=ADnh.<br /> - =C4=90=E1=BA=A3m b=E1=BA=A3o vi=E1=BB=87c theo =
+d=C3=B5i v=C3=A0 c=E1=BA=ADp nh=E1=BA=ADt ch=E1=BB=A9ng t=E1=BB=AB trung =
+th=E1=BB=B1c, ch=C3=ADnh x=C3=A1c v=C3=A0 k=E1=BB=8Bp th=E1=BB=9Di. =
+L=C6=B0u tr=E1=BB=AF c=C3=A1c ch=E1=BB=A9ng t=E1=BB=AB li=C3=AAn quan =
+=C4=91=E1=BA=BFn c=C3=B4ng vi=E1=BB=87c theo quy =C4=91=E1=BB=8Bnh. Cung =
+c=E1=BA=A5p c=C3=A1c b=C3=A1o c=C3=A1o li=C3=AAn quan ph=E1=BA=A7n =
+h=C3=A0nh ph=E1=BB=A5tr=C3=A1ch theo y=C3=AAu c=E1=BA=A7u c=E1=BB=A7a =
+c=E1=BA=A5p qu=E1=BA=A3n l=C3=BD.<br /> -Nh=E1=BA=ADp li=E1=BB=87u =
+v=C3=A0o ph=E1=BA=A7n m=E1=BB=81m, kh=C3=B3a s=E1=BB=95, v=C3=A0 =
+l=E1=BA=ADp b=C3=A1o c=C3=A1o li=C3=AAn quan ph=E1=BA=A7n vi=E1=BB=87c =
+ph=E1=BB=A5 tr=C3=A1ch ch=C3=ADnh; Khi ph=C3=A1t hi=E1=BB=87n l=E1=BB=97i =
+v=C3=A0 c=E1=BA=A7n ph=E1=BA=A3i s=E1=BB=ADa, x=C3=B3a th=C3=AC =
+ph=E1=BA=A3i c=C3=B3 s=E1=BB=B1 =C4=91=E1=BB=93ng =C3=BD c=E1=BB=A7a =
+c=E1=BA=A5p qu=E1=BA=A3n l=C3=BD tr=E1=BB=B1c ti=E1=BA=BFp.<br /> Y=C3=AAu =
+c=E1=BA=A7u c=C3=B4ng vi=E1=BB=87c<br /> =E2=80=A2<br /> K=E1=BB=B9 =
+n=C4=83ng T=E1=BB=91t nghi=E1=BB=87p =C4=90=E1=BA=A1i h=E1=BB=8Dc =
+chuy=C3=AAn ng=C3=A0nh k=E1=BA=BF to=C3=A1n<br /> Am hi=E1=BB=83u =
+v=E1=BB=81 xu=E1=BA=A5t nh=E1=BA=ADp kh=E1=BA=A9u &amp; thu=E1=BA=BF<br /> =
+Th=C3=A0nh th=E1=BA=A1o tin h=E1=BB=8Dc v=C4=83n ph=C3=B2ng<br /> =
+C=E1=BA=A9n th=E1=BA=ADn, ch=C3=ADnh x=C3=A1c, trung th=E1=BB=B1c<br /> =
+C=C3=B3 kinh nghi=E1=BB=87m =E1=BB=9F v=E1=BB=8B tr=C3=AD t=C6=B0=C6=A1ng =
+=C4=91=C6=B0=C6=A1ng &amp; bi=E1=BA=BFt s=E1=BB=AD d=E1=BB=A5ng =
+ph=E1=BA=A7n m=E1=BB=81m k=E1=BA=BF to=C3=A1n l=C3=A0 m=E1=BB=99t =
+l=E1=BB=A3i th=E1=BA=BF<br /> =C6=AFu ti=C3=AAn c=C3=A1c =E1=BB=A9ng =
+vi=C3=AAn c=C3=B3 h=E1=BB=99 kh=E1=BA=A9u t=E1=BA=A1i B=C3=ACnh =
+=C4=90=E1=BB=8Bnh v=C3=A0 c=C3=A1c t=E1=BB=89nh l=C3=A2n c=E1=BA=ADn<br /> =
+Ch=E1=BA=BF =C4=91=E1=BB=99 kh=C3=A1c =C4=90=C6=B0=E1=BB=A3c tham gia =
+v=C3=A0 h=C6=B0=E1=BB=9Fng =C4=91=E1=BA=A7y =C4=91=E1=BB=A7 c=C3=A1c =
+ch=E1=BA=BF =C4=91=E1=BB=99 l=C6=B0=C6=A1ng, ch=C3=ADnh s=C3=A1ch =
+ph=C3=BAc l=E1=BB=A3i kh=C3=A1c theo lu=E1=BA=ADt =C4=91=E1=BB=8Bnh =
+v=C3=A0 quy =C4=91=E1=BB=8Bnh hi=E1=BB=87n h=C3=A0nh c=E1=BB=A7a c=C3=B4ng =
+ty<br /> Y=C3=AAu c=E1=BA=A7u h=E1=BB=93 s=C6=A1 =C4=90=C6=A1n xin =
+vi=E1=BB=87c<br /> - S=C6=A1 y=E1=BA=BFu l=C3=BD l=E1=BB=8Bch.<br /> - =
+H=E1=BB=99 kh=E1=BA=A9u, ch=E1=BB=A9ng minh nh=C3=A2n d=C3=A2n v=C3=A0 =
+gi=E1=BA=A5y kh=C3=A1m s=E1=BB=A9c kh=E1=BB=8Fe.<br /> - C=C3=A1c =
+b=E1=BA=B1ng c=E1=BA=A5p c=C3=B3 li=C3=AAn quan + b=E1=BA=A3ng =
+=C4=91i=E1=BB=83m chi ti=E1=BA=BFt.<br /> - 02 h=C3=ACnh 3x4<br /> - =
+B=E1=BA=A3ng k=C3=AA khai qu=C3=A1 tr=C3=ACnh l=C3=A0m vi=E1=BB=87c trong =
+=C4=91=C3=B3 ghi c=E1=BB=A5 th=E1=BB=83 c=C3=A1c v=E1=BB=8B tr=C3=AD =
+=C4=91=C3=A3 t=E1=BB=ABng =C4=91=E1=BA=A3m nhi=E1=BB=87m<br /> Vui =
+l=C3=B2ng ghi r=C3=B5 v=E1=BB=8B tr=C3=AD =E1=BB=A9ng tuy=E1=BB=83n =
+v=C3=A0 =C4=91=E1=BB=8Ba =C4=91i=E1=BB=83m l=C3=A0m vi=E1=BB=87c =
+ngo=C3=A0i b=C3=ACa h=E1=BB=93 s=C6=A1<br /> Nh=E1=BA=ADn h=E1=BB=93 =
+s=C6=A1, ph=E1=BB=8Fng v=E1=BA=A5n v=C3=A0 h=E1=BB=8Dc vi=E1=BB=87c =
+t=E1=BA=A1i CN Bi=C3=AAn H=C3=B2a, =C4=90=C6=B0=E1=BB=9Dng s=E1=BB=91 9, =
+KCN Bi=C3=AAn H=C3=B2a I, Bi=C3=AAn H=C3=B2a, =C4=90=E1=BB=93ng Nai<br /> =
+Sau khi h=E1=BB=8Dc vi=E1=BB=87c xong s=E1=BA=BD chuy=E1=BB=83n ra =
+l=C3=A0m vi=E1=BB=87c t=E1=BA=A1i CN B=C3=ACnh =C4=90=E1=BB=8Bnh =
+(C=C3=B4ng ty TNHH MTV Con c=C3=B2 B=C3=ACnh =C4=90=E1=BB=8Bnh, L=C3=B4 =
+A2.5, A2.6, KCN Nh=C6=A1n H=C3=B2a, An Nh=C6=A1n, B=C3=ACnh =
+=C4=90=E1=BB=8Bnh<br /> =E2=80=A2 H=E1=BA=A1n n=E1=BB=99p h=E1=BB=93 =
+s=C6=A1<br /> 30-09-2014<br /> =E2=80=A2=C4=90=E1=BB=8Ba ch=E1=BB=89: Khu =
+C=C3=B4ng Nghi=E1=BB=87p Bi=C3=AAn H=C3=B2a I =C4=90=E1=BB=93ng Nai <br /> =
+=C4=90T: 0613 836 404 - 834 127 | Fax: 0613 836 146 <br /> Email: =
+webconco&#064;conco.com.vn <br /> Website: <a =
+href=3D"http://l.facebook.com/l/fAQGE5jxE/www.conco.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;">www.conco.com.vn</a>  -  =
+Tr=E1=BA=A3 l=E1=BB=9Di email n=C3=A0y =C4=91=E1=BB=83 =C4=91=C3=A3 =
+b=C3=ACnh lu=E1=BA=ADn v=E1=BB=81 b=C3=A0i vi=E1=BA=BFt n=C3=A0y.
+
+</span></td></tr><tr><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"32" align=3D"left" valign=3D"middle" =
+style=3D"height:32;line-height:0px;"><a href=3D"https://www.facebook.com/n=
+/?quynhon30s%2Fposts_to_page&amp;aref=3D34515835&amp;medium=3Demail&amp;mi=
+d=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZZ_Gpy=
+oc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/_2faPUZhPI6.png" =
+width=3D"32" height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?quynhon30=
+s%2Fposts_to_page&amp;aref=3D34515835&amp;medium=3Demail&amp;mid=3Da64a74a=
+G5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZZ_Gpyoc9YnJ9&amp=
+;n_m=3Dthuanthienkiemqn%40yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:18p=
+x;line-height:32px;">Facebook</a></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:14px;line-height:19px;color:#141823;">Anh =
+Thi=C3=AAn <a href=3D"https://www.facebook.com/n/?quynhon30s%2Fposts_to_pa=
+ge&amp;aref=3D34515835&amp;medium=3Demail&amp;mid=3Da64a74aG5af3ec870ad1G2=
+0eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZZ_Gpyoc9YnJ9&amp;n_m=3Dthuanthi=
+enkiemqn%40yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;">=C4=91=C3=A3 =C4=91=C4=83ng =
+l=C3=AAn d=C3=B2ng th=E1=BB=9Di gian c=E1=BB=A7a Quy Nh=C6=A1n =
+30s</a></span></td></tr><tr style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr><tr><td style=3D""><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;border:solid 1px =
+#e5e5e5;border-radius:2px 2px 0 0;padding:10px;display:block;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><a =
+href=3D"https://www.facebook.com/n/?mauhoaanhyeu&amp;aref=3D34515835&amp;m=
+edium=3Demail&amp;mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.=
+1408936476.AbnZZ_Gpyoc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;=
+lloc=3Dimage" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/t1.0-1/c30.0.=
+100.100/p100x100/1557570_231646753699033_2370803417674061345_n.jpg" =
+width=3D"50" height=3D"50" style=3D"border:0;" /></a></td><td width=3D"10" =
+style=3D"display:block;width:10px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><a =
+href=3D"https://www.facebook.com/n/?mauhoaanhyeu&amp;aref=3D34515835&amp;m=
+edium=3Demail&amp;mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.=
+1408936476.AbnZZ_Gpyoc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;=
+lloc=3Dimage" =
+style=3D"color:#141823;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:15p=
+x;line-height:21px;font-weight:bold;">Anh Thi=C3=AAn</a></td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:13px;line-height:18px;color:#898f9c;">25 =
+Th=C3=A1ng 8 l=C3=BAc 10:14</td></tr></table></td></tr><tr style=3D""><td =
+height=3D"10" style=3D"line-height:10px;">&nbsp;</td></tr><tr><td =
+colspan=3D"3" style=3D""><span style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:14p=
+x;line-height:19px;color:#141823;">Cty C=E1=BB=95 Ph=E1=BA=A7n =
+Vi=E1=BB=87t-Ph=C3=A1p S=E1=BA=A3n Xu=E1=BA=A5t Th=E1=BB=A9c =C4=83n Gia =
+S=C3=BAc c=E1=BA=A7n tuy=E1=BB=83n<br /> [IMG] <br /> +K=E1=BA=BF =
+to=C3=A1n thanh to=C3=A1n CN B=C3=ACnh =C4=90=E1=BB=8Bnh<br /> =E2=80=A2 =
+M=C3=B4 t=E1=BA=A3 c=C3=B4ng vi=E1=BB=87c<br /> - Ti=E1=BA=BFp =
+nh=E1=BA=ADn, ki=E1=BB=83m tra t=C3=ADnh =C4=91=E1=BA=A7y =C4=91=E1=BB=A7, =
+h=E1=BB=A3p ph=C3=A1p c=C3=A1c h=C3=B3a =C4=91=C6=A1n ch=E1=BB=A9ng =
+t=E1=BB=AB =C4=91=E1=BA=A7u v=C3=A0o, =C4=91=E1=BA=A7u ra =C4=91=E1=BA=A3m =
+b=E1=BA=A3o ph=C3=B9 h=E1=BB=A3p theo qui =C4=91=E1=BB=8Bnh c=E1=BB=A7a =
+Nh=C3=A0 n=C6=B0=E1=BB=9Bc.<br /> - H=E1=BA=A1ch to=C3=A1n c=C3=A1c =
+b=C3=BAt to=C3=A1n li=C3=AAn quan =C4=91=E1=BA=BFn thu, chi ti=E1=BB=81n =
+m=E1=BA=B7t, ti=E1=BB=81n g=E1=BB=ADi. Ph=E1=BA=A3n =C3=A1nh k=E1=BB=8Bp =
+th=E1=BB=9Di c=C3=A1c kho=E1=BA=A3n thu, chi v=E1=BB=91n b=E1=BA=B1ng =
+ti=E1=BB=81n. Th=E1=BB=B1c hi=E1=BB=87n vi=E1=BB=87c ki=E1=BB=83m tra, =
+=C4=91=E1=BB=91i chi=E1=BA=BFu s=E1=BB=91 li=E1=BB=87u th=C6=B0=E1=BB=9Dng =
+xuy=C3=AAn (cu=E1=BB=91i m=E1=BB=97i ng=C3=A0y v=C3=A0 cu=E1=BB=91i =
+th=C3=A1ng) v=E1=BB=9Bi th=E1=BB=A7 qu=E1=BB=B9 =C4=91=E1=BB=83 =
+b=E1=BA=A3o =C4=91=E1=BA=A3m gi=C3=A1m s=C3=A1t ch=E1=BA=B7t ch=E1=BA=BD =
+v=E1=BB=91n b=E1=BA=B1ng ti=E1=BB=81n.<br /> - Th=E1=BB=B1c hi=E1=BB=87n =
+vi=E1=BB=87c giao d=E1=BB=8Bch v=E1=BB=9Bi ng=C3=A2n h=C3=A0ng: r=C3=BAt =
+ti=E1=BB=81n, chuy=E1=BB=83n ti=E1=BB=81n, =C4=91=E1=BB=91i chi=E1=BA=BFu =
+ch=E1=BB=A9ng t=E1=BB=AB, s=E1=BB=95 ph=E1=BB=A5 ng=C3=A2n h=C3=A0ng.<br =
+/> - Ph=E1=BB=A5 tr=C3=A1ch (l=E1=BA=ADp, qu=E1=BA=A3n l=C3=BD, =
+gi=E1=BA=A3i quy=E1=BA=BFt, t=E1=BA=A5t to=C3=A1n=E2=80=A6) c=C3=A1c =
+h=E1=BB=A3p =C4=91=E1=BB=93ng t=C3=ADn d=E1=BB=A5ng, c=C3=A1c =
+kho=E1=BA=A3n l=C3=A3i (ti=E1=BB=81n g=E1=BB=ADi, ti=E1=BB=81n vay).<br /> =
+- Th=E1=BB=B1c hi=E1=BB=87n vi=E1=BB=87c n=E1=BB=99p thu=E1=BA=BF =
+(nh=E1=BA=ADp kh=E1=BA=A9u, VAT,=E2=80=A6) h=C3=A0ng nh=E1=BA=ADp =
+kh=E1=BA=A9u.<br /> - L=E1=BA=ADp b=C3=A1o c=C3=A1o d=E1=BB=B1 =
+ki=E1=BA=BFn thu chi h=C3=A0ng tu=E1=BA=A7n, th=C3=A1ng, c=C3=A2n =
+=C4=91=E1=BB=91i t=C3=A0i ch=C3=ADnh.<br /> - =C4=90=E1=BA=A3m b=E1=BA=A3o =
+vi=E1=BB=87c theo d=C3=B5i v=C3=A0 c=E1=BA=ADp nh=E1=BA=ADt ch=E1=BB=A9ng =
+t=E1=BB=AB trung th=E1=BB=B1c, ch=C3=ADnh x=C3=A1c v=C3=A0 k=E1=BB=8Bp =
+th=E1=BB=9Di. L=C6=B0u tr=E1=BB=AF c=C3=A1c ch=E1=BB=A9ng t=E1=BB=AB =
+li=C3=AAn quan =C4=91=E1=BA=BFn c=C3=B4ng vi=E1=BB=87c theo quy =
+=C4=91=E1=BB=8Bnh. Cung c=E1=BA=A5p c=C3=A1c b=C3=A1o c=C3=A1o li=C3=AAn =
+quan ph=E1=BA=A7n h=C3=A0nh ph=E1=BB=A5tr=C3=A1ch theo y=C3=AAu =
+c=E1=BA=A7u c=E1=BB=A7a c=E1=BA=A5p qu=E1=BA=A3n l=C3=BD.<br /> =
+-Nh=E1=BA=ADp li=E1=BB=87u v=C3=A0o ph=E1=BA=A7n m=E1=BB=81m, kh=C3=B3a =
+s=E1=BB=95, v=C3=A0 l=E1=BA=ADp b=C3=A1o c=C3=A1o li=C3=AAn quan =
+ph=E1=BA=A7n vi=E1=BB=87c ph=E1=BB=A5 tr=C3=A1ch ch=C3=ADnh; Khi ph=C3=A1t =
+hi=E1=BB=87n l=E1=BB=97i v=C3=A0 c=E1=BA=A7n ph=E1=BA=A3i s=E1=BB=ADa, =
+x=C3=B3a th=C3=AC ph=E1=BA=A3i c=C3=B3 s=E1=BB=B1 =C4=91=E1=BB=93ng =C3=BD =
+c=E1=BB=A7a c=E1=BA=A5p qu=E1=BA=A3n l=C3=BD tr=E1=BB=B1c ti=E1=BA=BFp.<br =
+/> Y=C3=AAu c=E1=BA=A7u c=C3=B4ng vi=E1=BB=87c<br /> =E2=80=A2<br /> =
+K=E1=BB=B9 n=C4=83ng T=E1=BB=91t nghi=E1=BB=87p =C4=90=E1=BA=A1i =
+h=E1=BB=8Dc chuy=C3=AAn ng=C3=A0nh k=E1=BA=BF to=C3=A1n<br /> Am =
+hi=E1=BB=83u v=E1=BB=81 xu=E1=BA=A5t nh=E1=BA=ADp kh=E1=BA=A9u &amp; =
+thu=E1=BA=BF<br /> Th=C3=A0nh th=E1=BA=A1o tin h=E1=BB=8Dc v=C4=83n =
+ph=C3=B2ng<br /> C=E1=BA=A9n th=E1=BA=ADn, ch=C3=ADnh x=C3=A1c, trung =
+th=E1=BB=B1c<br /> C=C3=B3 kinh nghi=E1=BB=87m =E1=BB=9F v=E1=BB=8B =
+tr=C3=AD t=C6=B0=C6=A1ng =C4=91=C6=B0=C6=A1ng &amp; bi=E1=BA=BFt =
+s=E1=BB=AD d=E1=BB=A5ng ph=E1=BA=A7n m=E1=BB=81m k=E1=BA=BF to=C3=A1n =
+l=C3=A0 m=E1=BB=99t l=E1=BB=A3i th=E1=BA=BF<br /> =C6=AFu ti=C3=AAn =
+c=C3=A1c =E1=BB=A9ng vi=C3=AAn c=C3=B3 h=E1=BB=99 kh=E1=BA=A9u t=E1=BA=A1i =
+B=C3=ACnh =C4=90=E1=BB=8Bnh v=C3=A0 c=C3=A1c t=E1=BB=89nh l=C3=A2n =
+c=E1=BA=ADn<br /> Ch=E1=BA=BF =C4=91=E1=BB=99 kh=C3=A1c =
+=C4=90=C6=B0=E1=BB=A3c tham gia v=C3=A0 h=C6=B0=E1=BB=9Fng =
+=C4=91=E1=BA=A7y =C4=91=E1=BB=A7 c=C3=A1c ch=E1=BA=BF =C4=91=E1=BB=99 =
+l=C6=B0=C6=A1ng, ch=C3=ADnh s=C3=A1ch ph=C3=BAc l=E1=BB=A3i kh=C3=A1c theo =
+lu=E1=BA=ADt =C4=91=E1=BB=8Bnh v=C3=A0 quy =C4=91=E1=BB=8Bnh hi=E1=BB=87n =
+h=C3=A0nh c=E1=BB=A7a c=C3=B4ng ty<br /> Y=C3=AAu c=E1=BA=A7u h=E1=BB=93 =
+s=C6=A1 =C4=90=C6=A1n xin vi=E1=BB=87c<br /> - S=C6=A1 y=E1=BA=BFu l=C3=BD =
+l=E1=BB=8Bch.<br /> - H=E1=BB=99 kh=E1=BA=A9u, ch=E1=BB=A9ng minh =
+nh=C3=A2n d=C3=A2n v=C3=A0 gi=E1=BA=A5y kh=C3=A1m s=E1=BB=A9c =
+kh=E1=BB=8Fe.<br /> - C=C3=A1c b=E1=BA=B1ng c=E1=BA=A5p c=C3=B3 li=C3=AAn =
+quan + b=E1=BA=A3ng =C4=91i=E1=BB=83m chi ti=E1=BA=BFt.<br /> - 02 =
+h=C3=ACnh 3x4<br /> - B=E1=BA=A3ng k=C3=AA khai qu=C3=A1 tr=C3=ACnh =
+l=C3=A0m vi=E1=BB=87c trong =C4=91=C3=B3 ghi c=E1=BB=A5 th=E1=BB=83 =
+c=C3=A1c v=E1=BB=8B tr=C3=AD =C4=91=C3=A3 t=E1=BB=ABng =C4=91=E1=BA=A3m =
+nhi=E1=BB=87m<br /> Vui l=C3=B2ng ghi r=C3=B5 v=E1=BB=8B tr=C3=AD =
+=E1=BB=A9ng tuy=E1=BB=83n v=C3=A0 =C4=91=E1=BB=8Ba =C4=91i=E1=BB=83m =
+l=C3=A0m vi=E1=BB=87c ngo=C3=A0i b=C3=ACa h=E1=BB=93 s=C6=A1<br /> =
+Nh=E1=BA=ADn h=E1=BB=93 s=C6=A1, ph=E1=BB=8Fng v=E1=BA=A5n v=C3=A0 =
+h=E1=BB=8Dc vi=E1=BB=87c t=E1=BA=A1i CN Bi=C3=AAn H=C3=B2a, =
+=C4=90=C6=B0=E1=BB=9Dng s=E1=BB=91 9, KCN Bi=C3=AAn H=C3=B2a I, Bi=C3=AAn =
+H=C3=B2a, =C4=90=E1=BB=93ng Nai<br /> Sau khi h=E1=BB=8Dc vi=E1=BB=87c =
+xong s=E1=BA=BD chuy=E1=BB=83n ra l=C3=A0m vi=E1=BB=87c t=E1=BA=A1i CN =
+B=C3=ACnh =C4=90=E1=BB=8Bnh (C=C3=B4ng ty TNHH MTV Con c=C3=B2 B=C3=ACnh =
+=C4=90=E1=BB=8Bnh, L=C3=B4 A2.5, A2.6, KCN Nh=C6=A1n H=C3=B2a, An =
+Nh=C6=A1n, B=C3=ACnh =C4=90=E1=BB=8Bnh<br /> =E2=80=A2 H=E1=BA=A1n =
+n=E1=BB=99p h=E1=BB=93 s=C6=A1<br /> 30-09-2014<br /> =
+=E2=80=A2=C4=90=E1=BB=8Ba ch=E1=BB=89: Khu C=C3=B4ng Nghi=E1=BB=87p =
+Bi=C3=AAn H=C3=B2a I =C4=90=E1=BB=93ng Nai <br /> =C4=90T: 0613 836 404 - =
+834 127 | Fax: 0613 836 146 <br /> Email: webconco&#064;conco.com.vn <br =
+/> Website: <a href=3D"http://l.facebook.com/l/4AQEGdBqL/www.conco.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;">www.conco.com.vn</a></span><=
+/td></tr></table></td></tr><tr><td style=3D"font-size:11px;font-family:Luc=
+idaGrande,tahoma,verdana,arial,sans-serif;background:#f2f2f2;border:solid =
+1px #e5e5e5;border-top:0;border-radius:0 0 2px 2px;padding:0px =
+10px;display:block;"><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"border-collapse:collapse;"><tr style=3D""><td =
+height=3D"5" style=3D"line-height:5px;">&nbsp;</td></tr><tr><td =
+style=3D"padding:5px 10px;border-right:1px solid #e5e5e5;"><a =
+href=3D"https://www.facebook.com/n/?email%2Fufi%2Fclick&amp;action=3Dlike&=
+amp;target=3D538451996299574&amp;hash=3DAVK6VCjfhfXkrVa4&amp;aref=3D345158=
+35&amp;medium=3Demail&amp;mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bc=
+ode=3D1.1408936476.AbnZZ_Gpyoc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yahoo.com=
+.vn&amp;lloc=3Demail_ufi_like&amp;sig_t=3D1408936476&amp;sig=3DAVJktEMLGd_=
+NcIKH" style=3D"color:#3b5998;text-decoration:none;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"8" =
+style=3D"display:block;width:8px;">&nbsp;&nbsp;&nbsp;</td><td =
+valign=3D"middle" style=3D""><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yM/r/aL-TjjYppK9.png" =
+width=3D"16" height=3D"16" style=3D"border:0;" /></td><td =
+valign=3D"middle" style=3D"padding:0px 8px;"><a href=3D"https://www.facebo=
+ok.com/n/?email%2Fufi%2Fclick&amp;action=3Dlike&amp;target=3D5384519962995=
+74&amp;hash=3DAVK6VCjfhfXkrVa4&amp;aref=3D34515835&amp;medium=3Demail&amp;=
+mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZZ_G=
+pyoc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;lloc=3Demail_ufi_l=
+ike&amp;sig_t=3D1408936476&amp;sig=3DAVJktEMLGd_NcIKH" =
+style=3D"color:#4c4c4c;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;white-space:n=
+owrap;font-weight:bold;font-size:13px;line-height:13px;text-shadow:0 1px 0 =
+#ffffff;">Th=C3=ADch</a></td></tr></table></a></td><td =
+style=3D"padding:5px 10px;"><a href=3D"https://www.facebook.com/n/?email%2=
+Fufi%2Fclick&amp;action=3Dcomment&amp;target=3D538451996299574&amp;hash=3D=
+AVK9i0xH0v2nu3rm&amp;aref=3D34515835&amp;medium=3Demail&amp;mid=3Da64a74aG=
+5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZZ_Gpyoc9YnJ9&amp;=
+n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;lloc=3Demail_ufi_comment&amp;sig=
+_t=3D1408936476&amp;sig=3DAVJspXInPYnWtPKN" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td width=3D"8" =
+style=3D"display:block;width:8px;">&nbsp;&nbsp;&nbsp;</td><td =
+valign=3D"middle" style=3D""><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yK/r/pydUbhpFodk.png" =
+width=3D"16" height=3D"16" style=3D"border:0;" /></td><td =
+valign=3D"middle" style=3D"padding:0px 8px;"><a href=3D"https://www.facebo=
+ok.com/n/?email%2Fufi%2Fclick&amp;action=3Dcomment&amp;target=3D5384519962=
+99574&amp;hash=3DAVK9i0xH0v2nu3rm&amp;aref=3D34515835&amp;medium=3Demail&a=
+mp;mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZ=
+Z_Gpyoc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;lloc=3Demail_uf=
+i_comment&amp;sig_t=3D1408936476&amp;sig=3DAVJspXInPYnWtPKN" =
+style=3D"color:#4c4c4c;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;white-space:n=
+owrap;font-weight:bold;font-size:13px;line-height:13px;text-shadow:0 1px 0 =
+#ffffff;">B=C3=ACnh&nbsp;lu=E1=BA=ADn</a></td></tr></table></a></td><td =
+width=3D"100%" style=3D""></td></tr><tr style=3D""><td height=3D"5" =
+style=3D"line-height:5px;">&nbsp;</td></tr></table></td></tr></table></td>=
+</tr><tr style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+class=3D"mb_blk" style=3D""><a href=3D"https://www.facebook.com/n/?quynhon=
+30s%2Fposts_to_page&amp;aref=3D34515835&amp;medium=3Demail&amp;mid=3Da64a7=
+4aG5af3ec870ad1G20eab7bG1Ge7f7&amp;bcode=3D1.1408936476.AbnZZ_Gpyoc9YnJ9&a=
+mp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 8px 16px;"><a =
+href=3D"https://www.facebook.com/n/?quynhon30s%2Fposts_to_page&amp;aref=3D=
+34515835&amp;medium=3Demail&amp;mid=3Da64a74aG5af3ec870ad1G20eab7bG1Ge7f7&=
+amp;bcode=3D1.1408936476.AbnZZ_Gpyoc9YnJ9&amp;n_m=3Dthuanthienkiemqn%40yah=
+oo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;color:#ffffff;text-shadow:0 -1px 0 #415686;font-size:14px;line-height:14p=
+x;">Xem&nbsp;b=C3=A0i&nbsp;vi=E1=BA=BFt</span></font></center></a></td></t=
+r></table></a></td><td width=3D"100%" class=3D"mb_hide" =
+style=3D""></td></tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:13px;line-height:18px;color:#898f9c;">Tr=E1=BA=
+=A3 l=E1=BB=9Di email n=C3=A0y =C4=91=E1=BB=83 =C4=91=C3=A3 b=C3=ACnh =
+lu=E1=BA=ADn v=E1=BB=81 b=C3=A0i vi=E1=BA=BFt n=C3=A0y.
+
+</span></td></tr><tr style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D"border-top:solid 1px =
+#e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;">&nbsp;</td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:11px;color:#aaaaaa;line-height:16px;">Tin =
+nh=E1=BA=AFn n=C3=A0y =C4=91=C3=A3 =C4=91=C6=B0=E1=BB=A3c g=E1=BB=ADi =
+t=E1=BB=9Bi <a href=3D"mailto:thuanthienkiemqn&#064;yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;">thuanthienkiemqn&#064;yahoo.=
+com.vn</a>. N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng mu=E1=BB=91n nh=E1=BA=ADn =
+nh=E1=BB=AFng email nh=C6=B0 th=E1=BA=BF n=C3=A0y t=E1=BB=AB Facebook =
+trong t=C6=B0=C6=A1ng lai, vui l=C3=B2ng <a href=3D"https://www.facebook.c=
+om/o.php?k=3DAS2gAdXCJ7uM_2k_&amp;u=3D100003691825873&amp;mid=3Da64a74aG5a=
+f3ec870ad1G20eab7bG1Ge7f7" =
+style=3D"color:#3b5998;text-decoration:none;">h=E1=BB=A7y =C4=91=C4=83ng =
+k=C3=BD</a>.<br />Facebook, Inc., Attention: Department 415, PO Box 10005, =
+Palo Alto, CA 94303</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3Da64a74aG5af3e=
+c870ad1G20eab7bG1Ge7f7" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_c26ac049d02f02e6e9d01301c2256714--
+

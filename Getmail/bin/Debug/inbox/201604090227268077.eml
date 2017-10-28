@@ -1,0 +1,62 @@
+Delivered-To: nasic.vn@gmail.com
+Received: by 10.49.76.97 with SMTP id j1csp121995qew;
+        Sat, 29 Sep 2012 07:42:02 -0700 (PDT)
+Return-Path: <3uQhnUBAKCO4QSSekdji-dehUfboWeeWbU.SecdQiYS.ldWcQYb.Sec@gaia.bounces.google.com>
+Received-SPF: pass (google.com: domain of 3uQhnUBAKCO4QSSekdji-dehUfboWeeWbU.SecdQiYS.ldWcQYb.Sec@gaia.bounces.google.com designates 10.59.7.167 as permitted sender) client-ip=10.59.7.167
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of 3uQhnUBAKCO4QSSekdji-dehUfboWeeWbU.SecdQiYS.ldWcQYb.Sec@gaia.bounces.google.com designates 10.59.7.167 as permitted sender) smtp.mail=3uQhnUBAKCO4QSSekdji-dehUfboWeeWbU.SecdQiYS.ldWcQYb.Sec@gaia.bounces.google.com; dkim=pass header.i=3uQhnUBAKCO4QSSekdji-dehUfboWeeWbU.SecdQiYS.ldWcQYb.Sec@gaia.bounces.google.com
+Received: from mr.google.com ([10.59.7.167])
+        by 10.59.7.167 with SMTP id dd7mr3926738ved.26.1348929722768 (num_hops = 1);
+        Sat, 29 Sep 2012 07:42:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-notifications:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=+VOKZvEa04MFPzXKKQkCIhhJHVrOJ9j6xBKMdrmn890=;
+        b=UHDi5Qk8DjrElZ/pze5lfJCmXWE2Dvw2LY5AbrpWbrYAo2/r3PSXckZWBO3qnBg4N/
+         CQ9IY0X8perjKnuPylI1txvtnYC6EdrX9/pjyyBgZ1jaststNCIUY9NEgkxPIFyEOvLM
+         3Gj9eB4aVNTX1xEhfnK0ynrjIQXC4hSYyLGAmBTolFV4L6nnGchaUI5xzGrT684+mwTm
+         apQ82x7o+0rfqZUcFVUrmQAM378D2agbRmYMWotqh2WMPAml8hqE6rNeseJKKAsWbuj0
+         GaxjlnsMDoloOOkJ+jBhtCxLAQ22nOYWEE3VrHQiilWqmF8/db9J5E8kZW0qT0KHkqLj
+         FE3w==
+MIME-Version: 1.0
+Received: by 10.59.7.167 with SMTP id dd7mr3185208ved.26.1348929721016; Sat,
+ 29 Sep 2012 07:42:01 -0700 (PDT)
+X-Notifications: XEAAAAMdc5NZV8YTZwLX4chicibs
+Date: Sat, 29 Sep 2012 07:41:54 -0700 (PDT)
+Message-ID: <R6yTb2QsUcT78YJ53O_uMA@notifications.google.com>
+Subject: =?UTF-8?B?xJDDoyB0aGF5IMSR4buVaSBt4bqtdCBraOG6qXUgdMOgaSBraG/huqNuIEdvb2dsZQ==?=
+From: accounts-noreply@google.com
+To: nasic.vn@gmail.com
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+DQpN4bqtdCBraOG6qXUgY2hvIHTDoGkga2hv4bqjbiBHb29nbGUgY+G7p2EgYuG6oW4gLSBuYXNp
+Yy52bkBnbWFpbC5jb20gLSBn4bqnbiDEkcOieSDEkcOjICANCsSRxrDhu6NjIHRoYXkgxJHhu5Vp
+Lg0KTuG6v3UgYuG6oW4gdGjhu7FjIGhp4buHbiB0aGF5IMSR4buVaSBuw6B5LCBi4bqhbiBraMO0
+bmcgY+G6p24gcGjhuqNpIGzDoG0gZ8OsIHRow6ptLg0KDQpO4bq/dSBi4bqhbiBraMO0bmcgdGhh
+eSDEkeG7lWkgbeG6rXQga2jhuql1LCB0w6BpIGtob+G6o24gY+G7p2EgYuG6oW4gY8OzIHRo4buD
+IMSRw6MgYuG7iyB4w6JtIG5o4bqtcC4gxJDhu4MNCmzhuqV5IGzhuqFpIHTDoGkga2hv4bqjbiBj
+4bunYSBi4bqhbiwgYuG6oW4gc+G6vSBj4bqnbiDEkeG6t3QgbOG6oWkgbeG6rXQga2jhuql1IGLh
+urFuZyBjw6FjaCBuaOG6pXAgdsOgbw0KbGnDqm4ga+G6v3Qgc2F1OiAgDQpodHRwczovL2FjY291
+bnRzLmdvb2dsZS5jb20vUmVjb3ZlckFjY291bnQ/ZnBPbmx5PTEmc291cmNlPWFuY3BlJkVtYWls
+PW5hc2ljLnZuQGdtYWlsLmNvbS4NCg0KTeG6uW8gYuG6o28gbeG6rXQgdMOgaSBraG/huqNuIHF1
+YW4gdHLhu41uZzoNCi0gS2jDtG5nIGN1bmcgY+G6pXAgbeG6rXQga2jhuql1IGhv4bq3YyB0aMO0
+bmcgdGluIGPDoSBuaMOibiBj4bunYSBi4bqhbiBxdWEgZW1haWwgaG/hurdjICANCnRyw6puIG3h
+uqFuZw0KICAgeMOjIGjhu5lpLiBHb29nbGUgc+G6vSBraMO0bmcgYmFvIGdp4budIGxpw6puIGjh
+u4cgduG7m2kgYuG6oW4gxJHhu4MgecOqdSBj4bqndSBt4bqtdCBraOG6qXUgY+G7p2EgIA0KYuG6
+oW4uDQotIEtow7RuZyBiYW8gZ2nhu50gc+G7rSBk4bulbmcgY8O5bmcgbeG7mXQgbeG6rXQga2jh
+uql1IGNobyBHb29nbGUgdsOgIGPDoWMgdHJhbmcgd2ViIGtow6FjLg0KLSBUaMOqbSDEkWnhu4du
+IHRob+G6oWkgZGkgxJHhu5luZyB2w6BvIHTDoGkga2hv4bqjbiBj4bunYSBi4bqhbiDEkeG7gyBi
+4bqhbiBjw7MgdGjhu4MgZOG7hSBkw6BuZyB2xrDhu6N0ICANCnF1YSBjw6FjIGJp4buHbiBwaMOh
+cCBi4bqjbyBt4bqtdCBj4bunYSBHb29nbGUNCiAgICB2w6AgbMOgbSBjaG8gdGluIHThurdjIGto
+w7MgeMOibSBuaOG6rXAuDQoNCkzGsHUgw706IMSQ4buLYSBjaOG7iSBlbWFpbCBuw6B5IGtow7Ru
+ZyBjaOG6pXAgbmjhuq1uIHRoxrAgdHLhuqMgbOG7nWkuIMSQ4buDIGto4bqvYyBwaOG7pWMgc+G7
+sSBj4buRICANCmhv4bq3YyB0w6xtIGhp4buDdSB0aMOqbQ0KduG7gSB0w6BpIGtob+G6o24gY+G7
+p2EgYuG6oW4sIGjDo3kgdHJ1eSBj4bqtcCB0cnVuZyB0w6JtIHRy4bujIGdpw7pwIGPhu6dhIGNo
+w7puZyB0w7RpOg0KaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zdXBwb3J0L2FjY291bnRzL2Jpbi9h
+bnN3ZXIucHk/YW5zd2VyPTE2Mjg4NzUuDQoNClRyw6JuIHRy4buNbmcsDQpOaMOzbSB0w6BpIGto
+b+G6o24gR29vZ2xlDQoNCsKpIDIwMTIgR29vZ2xlIEluYy4gMTYwMCBBbXBoaXRoZWF0cmUgUGFy
+a3dheSwgTW91bnRhaW4gVmlldywgQ0EgOTQwNDMNCg0KQuG6oW4gxJHDoyBuaOG6rW4gdGjDtG5n
+IGLDoW8gZOG7i2NoIHbhu6UgcXVhIGVtYWlsIGLhuq90IGJ14buZYyBuw6B5IMSR4buDIGPhuq1w
+IG5o4bqtdCB24buBIG5o4buvbmcgIA0KdGhheSDEkeG7lWkgcXVhbiB0cuG7jW5nIGNobyBz4bqj
+biBwaOG6qW0gaG/hurdjIHTDoGkga2hv4bqjbiBHb29nbGUgY+G7p2EgYuG6oW4uDQo=

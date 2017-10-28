@@ -1,0 +1,348 @@
+X-Apparently-To: thuanthienkiemqn@yahoo.com.vn via 106.10.144.229; Fri, 05 Sep 2014 02:44:29 +0000
+Return-Path: <notification+zrdodizgfvie@facebookmail.com>
+Received-SPF: pass (domain of facebookmail.com designates 66.220.155.144 as permitted sender)
+X-YMailISG: N6P_vqEWLDvcP8Um2X5kQgbnpAZ8O647Q.4vP8AA16ZhF8AA
+ 2bqU4XaEGLVnPJmIO371D7J4Co5RQIKhnQElrvwbul9YFrP1GIa83vjaWZPC
+ wjFFytpz4PoIcf6brKWIodFRqNe.tn_59ErgaqGN9Vezf26mS2qRukjY_TZ5
+ RNLVqvR51BzLTj9QqYkUz7oA6okTm.oeO9VB2psy6YXtI8ls0yqzqtjPQBx8
+ zTAP6HnroSfOSS5NjKLTHaloGMZnZCuZVmxnNkL5HE4X7k_KjEbNIPp2WIFW
+ YWDlOjdikKQ0wkzk3uPV8ohrsK_j.2ZOMohNNqSpSU6G3t1H2pAan_dsAKgv
+ PdIPAunsiv7k04_QY53A7R4yHCsKjvfDvAoUlWwGN3KLIIi0TQlSckWKlA2v
+ qiWOW5762kb7OeDvYFpuZ1aFLQvnc9zog0y.ktlK2h7p7fy9INEI33R2KkL8
+ JPvsb9vWXMoEPIksnYvEJfDMtquHIFdHbVAPSTx4gp6Nse8tmJwxPAeSxpJP
+ wNTtA9gO4u.OM_Ti9wUITnDRVYDsM9nV5l5GzZ6g8ytwbdCDRG3NyXQi0eGM
+ RmB_QYbQrx45i_X97ZAI7uZeCUVqQVUn3F327XRAhyYkuYPw1oc2W3YW6EyS
+ sqTZw8erKIpqukIXUcIopmi1Tl500MV4ydeKVqPuR2JOELOnxJegnN2IsvDE
+ Ily1QQIxXD4F.rK0yd5xeV6epJ8OEUrMcfNDBzG41PjFWTulKcziV9LKLA.y
+ r3Geg72Kxql0BqnrpaAciN9cBhlbe7rM5zFc87mNh9lC9aUToV5KfpoMRuyZ
+ hY2jYf3CpjCM4g.qD_hX4t1gHU8xWyHws1B5._CiyVZ5NBaxabgGD_lBqvuD
+ wlMmIAIeEskciA2muDfjQpFnI6WAxQ.aHEAlV5hxdba02t4KTmwgEflGdu1d
+ y2vsq_pbTbS7gKl9e.Z3U3mkjQVwmuOGLyV1vlMJjjXDsd2Ed0V5pkc1X8lm
+ HrvXqTMKi1Pagvf0nyI5ry92afaFVBlesVKX7gcNAnSCrvNfLRjI3BAg6Bk.
+ Iiv0SFEztWfiUTrhCLx6jOyX0eOr6F4t8ZFmAJab3hxhSd6Fqtc_ENqFLlW3
+ 50a9ZtZ9wbJdDI0zJceTkxy5mviwmzT6CLNWWx5p0tMSv6n7Tt2C890zHCcs
+ xfbAreu4D40406vYpiCgsdbjIfnNIt2XoalRogKt_59C4J5hODClAuAxzyXK
+ u75oNmjCGPhxekksGaLkNUMWKFj78q0esXNy7vGIGFHoHTRHo59uQblKdDwg
+ tdxsWbakSG3UZEarcB9u6JmZb.tX6DCYQTl6WD1ozrj6eih4IzlBIWWyOaSV
+ Cm9Ct9UPdJKpIZtxwsu1K3GZ7AttmDlKuOroWHk.NbqgLbpNq3UgoEMSYAzM
+ jCVIE98Y.0jh7FP4zoMVW4Mbk92HPaCcLtyFMvx6uSUDB4NR7_6fuSVAlXxc
+ 2JucHDG_Hba4SZ46yZB61kdAeHdzh7MkmmMDUA74H5xB8ZsulObfN4sO7DI6
+ OQ--
+X-Originating-IP: [66.220.155.144]
+Authentication-Results: mta1088.mail.sg3.yahoo.com  from=facebookmail.com; domainkeys=neutral (no sig);  from=facebookmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mx-out.facebook.com) (66.220.155.144)
+  by mta1088.mail.sg3.yahoo.com with SMTPS; Fri, 05 Sep 2014 02:44:29 +0000
+Received: from facebook.com (09m6UN3u+6vCRVcYi4vUDP1Sou7NrP9MERwP+XvfJs37gltIL4A/ZQuhuhRzSIzO 10.158.104.87)
+ by facebook.com with Thrift id 8e20c9b234a611e48d7d0002c950ce48-927f53f0;
+ Thu, 04 Sep 2014 19:44:28 -0700
+X-Facebook: from 10.156.70.33 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Thu, 4 Sep 2014 19:44:28 -0700
+Return-Path: notification+zrdodizgfvie@facebookmail.com
+To: Linux Win <thuanthienkiemqn@yahoo.com.vn>
+From: "Facebook" <notification+zrdodizgfvie@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: =?UTF-8?B?TmhvayBCxrDhu5tuZyBC4buJbmg=?=
+ =?UTF-8?B?IMSRw6MgdGjDqm0gbeG7mXQg4bqjbg==?=
+ =?UTF-8?B?aCBt4bubaSB2w6BvIGFsYnVt?=
+ =?UTF-8?B?IFThuqNpIGzDqm4gdOG7qyBkaSA=?=
+ =?UTF-8?B?xJHhu5luZw==?=
+Message-ID: <aa6e2f362b3f462e1d53f9b793dd5e1f@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zrdodizgfvie@facebookmail.com
+X-Facebook-Notify: friend_activity; mailid=a7320baG5af3ec870ad1G0G109G6f968213
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_aa6e2f362b3f462e1d53f9b793dd5e1f"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1409885068;
+	bh=elEV00UFsTHhBVOsoXU0FWhO/j+k2jtGAet/f2xDYr4=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=qm35fabG7uqZlh4IwtAjxecC+othc8nLG4uzll7cDoebHt9zibQDWEmH9kf3t/Ike
+	 KnxQKsbfqPmYV5aQGCC1HM/FenibuFOwPJKvEoUNImxJNXU37OaM52URahjC9kdW6H
+	 cSx5Od3333gWes+B6pBl07dIdMM84YZG6bbq+KkM=
+Content-Length: 17583
+
+
+--b1_aa6e2f362b3f462e1d53f9b793dd5e1f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Xem =E1=BA=A3nh
+https://www.facebook.com/n/?photo.php&fbid=3D533183356812508&set=3Da.45286=
+6804844164.1073741833.100003625465094&type=3D1&medium=3Demail&mid=3Da7320b=
+aG5af3ec870ad1G0G109G6f968213&bcode=3D1.1409885068.Abn-oYmygzdl7olH&n_m=3D=
+thuanthienkiemqn%40yahoo.com.vn&lloc=3D1st_cta
+
+Xem do=CC=80ng th=C6=A1=CC=80i gian cu=CC=89a Nhok
+https://www.facebook.com/n/?profile.php&id=3D100003625465094&medium=3Demai=
+l&mid=3Da7320baG5af3ec870ad1G0G109G6f968213&bcode=3D1.1409885068.Abn-oYmyg=
+zdl7olH&n_m=3Dthuanthienkiemqn%40yahoo.com.vn&lloc=3D2nd_cta
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Xin ch=C3=A0o Linux,
+
+Nhok B=C6=B0=E1=BB=9Bng B=E1=BB=89nh =C4=91=C3=A3 th=C3=AAm m=E1=BB=99t =
+=E1=BA=A3nh m=E1=BB=9Bi v=C3=A0o album T=E1=BA=A3i l=C3=AAn t=E1=BB=AB di =
+=C4=91=E1=BB=99ng.
+
+[https://www.facebook.com/n/?profile.php&id=3D100003625465094&medium=3Dema=
+il&mid=3Da7320baG5af3ec870ad1G0G109G6f968213&bcode=3D1.1409885068.Abn-oYmy=
+gzdl7olH&n_m=3Dthuanthienkiemqn%40yahoo.com.vn&lloc=3Dprofile_img]=20
+
+Th=C3=ADch =C2=B7 B=C3=ACnh lu=E1=BA=ADn =C2=B7 Chia s=E1=BA=BB
+
+Lan Pu v=C3=A0 2 ng=C6=B0=E1=BB=9Di kh=C3=A1c th=C3=ADch =C4=91i=E1=BB=81u =
+n=C3=A0y.1 b=C3=ACnh lu=E1=BA=ADn
+
+Tr=C3=A2n tr=E1=BB=8Dng c=E1=BA=A3m =C6=A1n!
+Nh=C3=B3m Facebook
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Tin nh=E1=BA=AFn n=C3=A0y =C4=91=C3=A3 =C4=91=C6=B0=E1=BB=A3c g=E1=BB=ADi =
+t=E1=BB=9Bi thuanthienkiemqn@yahoo.com.vn. N=E1=BA=BFu b=E1=BA=A1n =
+kh=C3=B4ng mu=E1=BB=91n nh=E1=BA=ADn nh=E1=BB=AFng email nh=C6=B0 =
+th=E1=BA=BF n=C3=A0y t=E1=BB=AB Facebook trong t=C6=B0=C6=A1ng lai, vui =
+l=C3=B2ng nh=E1=BA=A5p v=C3=A0o li=C3=AAn k=E1=BA=BFt b=C3=AAn =
+d=C6=B0=E1=BB=9Bi =C4=91=E1=BB=83 h=E1=BB=A7y =C4=91=C4=83ng k=C3=BD.
+https://www.facebook.com/o.php?k=3DAS1SGB7Myx4KPgux&u=3D100003691825873&mi=
+d=3Da7320baG5af3ec870ad1G0G109G6f968213
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_aa6e2f362b3f462e1d53f9b793dd5e1f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;"><span =
+style=3D"width:620px;color:#FFFFFF;display:none =
+!important;font-size:1px;">Nhok B=C6=B0=E1=BB=9Bng B=E1=BB=89nh =
+=C4=91=C3=A3 th=C3=AAm m=E1=BB=99t =E1=BA=A3nh m=E1=BB=9Bi v=C3=A0o album =
+T=E1=BA=A3i l=C3=AAn t=E1=BB=AB di =C4=91=E1=BB=99ng . Nhok =
+B=C6=B0=E1=BB=9Bng B=E1=BB=89nh Th=C3=ADch =C2=B7 B=C3=ACnh lu=E1=BA=ADn =
+=C2=B7 Chia s=E1=BA=BB Lan Pu v=C3=A0 2 ng=C6=B0=E1=BB=9Di kh=C3=A1c =
+th=C3=ADch =C4=91i=E1=BB=81u n=C3=A0y. 1 b=C3=ACnh =
+lu=E1=BA=ADn</span><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"https://www.facebook.co=
+m/n/?photo.php&amp;fbid=3D533183356812508&amp;set=3Da.452866804844164.1073=
+741833.100003625465094&amp;type=3D1&amp;medium=3Demail&amp;mid=3Da7320baG5=
+af3ec870ad1G0G109G6f968213&amp;bcode=3D1.1409885068.Abn-oYmygzdl7olH&amp;n=
+_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;lloc=3Dlogo"><span =
+style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#0=
+39;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;width:620px;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:=
+none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:10px;"><span =
+style=3D"color:#333333;font-weight:bold;"><a href=3D"https://www.facebook.=
+com/n/?profile.php&amp;id=3D100003625465094&amp;medium=3Demail&amp;mid=3Da=
+7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=3D1.1409885068.Abn-oYmygzdl7o=
+lH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;">Nhok B=C6=B0=E1=BB=9Bng =
+B=E1=BB=89nh</a> =C4=91=C3=A3 th=C3=AAm m=E1=BB=99t <a =
+href=3D"https://www.facebook.com/n/?photo.php&amp;fbid=3D533183356812508&a=
+mp;set=3Da.452866804844164.1073741833.100003625465094&amp;type=3D1&amp;med=
+ium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=3D1.14=
+09885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;ll=
+oc=3Dphoto_link" =
+style=3D"color:#3b5998;text-decoration:none;">=E1=BA=A3nh</a> m=E1=BB=9Bi =
+v=C3=A0o album <a href=3D"https://www.facebook.com/n/?photo.php&amp;fbid=
+=3D533183356812508&amp;set=3Da.452866804844164.1073741833.100003625465094&=
+amp;type=3D1&amp;medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968=
+213&amp;bcode=3D1.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%4=
+0yahoo.com.vn&amp;lloc=3Dphoto_album_link" =
+style=3D"color:#3b5998;text-decoration:none;">T=E1=BA=A3i l=C3=AAn =
+t=E1=BB=AB di =C4=91=E1=BB=99ng</a>.</span></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:10px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-right:15px;text-align:left;"><a href=3D"https://www.faceboo=
+k.com/n/?profile.php&amp;id=3D100003625465094&amp;medium=3Demail&amp;mid=
+=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=3D1.1409885068.Abn-oYmygz=
+dl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;lloc=3Dprofile_img" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"http://profile.a=
+k.fbcdn.net/hprofile-ak-xpa1/v/t1.0-1/c8.0.50.50/p50x50/62933_430779310386=
+247_714766000_n.jpg?oh=3D53b08bedcf5bb99031a7a998c0d2de1e&amp;oe=3D546191F=
+7&amp;__gda__=3D1419566770_09b80b9829c4d28a7c9e373f49ca8f50" =
+style=3D"border:0;" /></a></td><td valign=3D"top" style=3D"font-size:11px;=
+font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;width:100%;text-a=
+lign:left;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:4px;"><span =
+style=3D"color:#111111;font-size:13px;font-weight:bold;"><a =
+href=3D"https://www.facebook.com/n/?profile.php&amp;id=3D100003625465094&a=
+mp;medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=
+=3D1.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn=
+&amp;lloc=3Dname" style=3D"color:#3b5998;text-decoration:none;">Nhok =
+B=C6=B0=E1=BB=9Bng B=E1=BB=89nh</a></span></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:4px;padding-bottom:4px;"><span =
+style=3D"color:#333333;"></span></td></tr><tr><td style=3D"font-size:11px;=
+font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:4px;p=
+adding-bottom:4px;"><a href=3D"https://www.facebook.com/n/?photo.php&amp;f=
+bid=3D533183356812508&amp;set=3Da.452866804844164.1073741833.1000036254650=
+94&amp;type=3D1&amp;medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f=
+968213&amp;bcode=3D1.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemq=
+n%40yahoo.com.vn&amp;lloc=3Dphoto_image" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbcdn-sp=
+hotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/s240x240/13646_53318335681=
+2508_5245749443651306995_n.jpg?oh=3Df775ee3f57617be5e5b6b8bb74a17811&amp;o=
+e=3D5492AAE1&amp;__gda__=3D1419444074_c527b82c472d6ba47798abeccd2beabb" =
+style=3D"border:0;" /></a></td></tr><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:4px;padding=
+-bottom:4px;"><span style=3D"color:#333333;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:10px;"><a href=3D"https://www.facebook.com/n/?email%2F=
+ufi%2Fclick&amp;action=3Dlike&amp;target=3D533183356812508&amp;hash=3DAVJj=
+hi160ctB_m1U&amp;medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968=
+213&amp;bcode=3D1.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%4=
+0yahoo.com.vn&amp;lloc=3Demail_ufi_like&amp;sig_t=3D1409885068&amp;sig=3DA=
+VLNcHGzSWYPGIQK" =
+style=3D"color:#3b5998;text-decoration:none;">Th=C3=ADch</a><span> =C2=B7 =
+</span><a href=3D"https://www.facebook.com/n/?email%2Fufi%2Fclick&amp;acti=
+on=3Dcomment&amp;target=3D533183356812508&amp;hash=3DAVJ3iNI3oYJNoOoU&amp;=
+medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=3D1=
+.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp=
+;lloc=3Demail_ufi_comment&amp;sig_t=3D1409885068&amp;sig=3DAVJ9iIXXG4UI4Ok=
+d" style=3D"color:#3b5998;text-decoration:none;">B=C3=ACnh =
+lu=E1=BA=ADn</a><span> =C2=B7 </span><a href=3D"https://www.facebook.com/n=
+/?email%2Fufi%2Fclick&amp;action=3Dshare&amp;target=3D533183356812508&amp;=
+hash=3DAVKjdfB5_7AVzsE_&amp;medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G=
+0G109G6f968213&amp;bcode=3D1.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanth=
+ienkiemqn%40yahoo.com.vn&amp;lloc=3Demail_ufi_share&amp;sig_t=3D1409885068=
+&amp;sig=3DAVJQSxHQLpzIM5_y" =
+style=3D"color:#3b5998;text-decoration:none;">Chia =
+s=E1=BA=BB</a></td></tr></table></span></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:4px;"><span style=3D"color:#333333;"><a =
+href=3D"https://www.facebook.com/n/?photo.php&amp;fbid=3D533183356812508&a=
+mp;set=3Da.452866804844164.1073741833.100003625465094&amp;type=3D1&amp;med=
+ium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=3D1.14=
+09885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:1px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:10px;background-color:#edeff4;border-left:none;border-right=
+:none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><td style=3D""><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/Uuve7g9pvYZ.gif" =
+style=3D"border:0;" /></td><td style=3D"font-size:11px;font-family:LucidaG=
+rande,tahoma,verdana,arial,sans-serif;padding-left:5px;">Lan Pu v=C3=A0 2 =
+ng=C6=B0=E1=BB=9Di kh=C3=A1c th=C3=ADch =C4=91i=E1=BB=81u =
+n=C3=A0y.</td></table></td></tr></table></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:0px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:10px;background-color:#edeff4;border-left:none;border-right=
+:none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><td style=3D""><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yK/r/HBNBSK7FaAL.gif" =
+style=3D"border:0;" /></td><td style=3D"font-size:11px;font-family:LucidaG=
+rande,tahoma,verdana,arial,sans-serif;padding-left:5px;">1 b=C3=ACnh =
+lu=E1=BA=ADn</td></table></td></tr></table></td></tr></table></a></span></=
+td></tr></table></td></tr></table></td></tr></table></td></tr></table></td=
+></tr><tr><td style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verd=
+ana,arial,sans-serif;padding:0px;width:620px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;" =
+border=3D"0"><tr><td style=3D"font-size:11px;font-family:LucidaGrande,taho=
+ma,verdana,arial,sans-serif;padding:7px 20px;background-color:#f2f2f2;bord=
+er-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px =
+solid #ccc;"><table cellspacing=3D"0" cellpadding=3D"0" style=3D""><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:65px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #29447E #29447E =
+#1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"https://www.facebook.com/n/?photo.php&amp;fbid=3D533183356812508&a=
+mp;set=3Da.452866804844164.1073741833.100003625465094&amp;type=3D1&amp;med=
+ium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=3D1.14=
+09885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn&amp;ll=
+oc=3D1st_cta" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #ffffff;font-size: =
+13px;">Xem =
+=E1=BA=A3nh</span></a></td></tr></table></td></tr></table></td><td =
+style=3D"padding:0px 5px;"></td><td style=3D"font-size:11px;font-family:Lu=
+cidaGrande,tahoma,verdana,arial,sans-serif;padding:7px 0px 6px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #999999 #999999 =
+#888888;background-color: #eeeeee;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #ffffff;"><a =
+href=3D"https://www.facebook.com/n/?profile.php&amp;id=3D100003625465094&a=
+mp;medium=3Demail&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968213&amp;bcode=
+=3D1.1409885068.Abn-oYmygzdl7olH&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn=
+&amp;lloc=3D2nd_cta" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #333333;font-size: =
+13px;">Xem do=CC=80ng th=C6=A1=CC=80i gian cu=CC=89a Nhok</span></a></td><=
+/tr></table></td></tr></table></td></tr></table></td></tr></table></td></t=
+r></table></td></tr></table><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, =
+verdana, arial, sans-serif;padding:30px 20px;background-color:#fff;border-=
+left:none;border-right:none;border-top:none;border-bottom:none;color:#9999=
+99;border:none;">Tin nh=E1=BA=AFn n=C3=A0y =C4=91=C3=A3 =
+=C4=91=C6=B0=E1=BB=A3c g=E1=BB=ADi t=E1=BB=9Bi <a =
+href=3D"mailto:thuanthienkiemqn&#064;yahoo.com.vn" style=3D"color:#3b5998;=
+text-decoration:none;">thuanthienkiemqn&#064;yahoo.com.vn</a>. N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng mu=E1=BB=91n nh=E1=BA=ADn nh=E1=BB=AFng email =
+nh=C6=B0 th=E1=BA=BF n=C3=A0y t=E1=BB=AB Facebook trong t=C6=B0=C6=A1ng =
+lai, vui l=C3=B2ng <a href=3D"https://www.facebook.com/o.php?k=3DAS1SGB7My=
+x4KPgux&amp;u=3D100003691825873&amp;mid=3Da7320baG5af3ec870ad1G0G109G6f968=
+213" style=3D"color:#3b5998;text-decoration:none;">h=E1=BB=A7y =
+=C4=91=C4=83ng k=C3=BD</a>.<br />Facebook, Inc., Attention: Department =
+415, PO Box 10005, Palo Alto, CA 94303</td></tr></table><span =
+style=3D"width:620px;"><img src=3D"https://www.facebook.com/email_open_log=
+_pic.php?mid=3Da7320baG5af3ec870ad1G0G109G6f968213" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_aa6e2f362b3f462e1d53f9b793dd5e1f--
+

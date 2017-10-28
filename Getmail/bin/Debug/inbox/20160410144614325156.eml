@@ -1,0 +1,391 @@
+X-Apparently-To: thuanthienkiemqn@yahoo.com.vn; Sat, 18 Oct 2014 07:22:35 +0000
+Return-Path: <notification+zrdodizgfvie@facebookmail.com>
+Received-SPF: pass (domain of facebookmail.com designates 66.220.155.135 as permitted sender)
+X-YMailISG: InhBvbMWLDu76KpphgFTFMiO9QujiFtpXlz6L35GJfPugWXd
+ gUIlFYEr_lN89n2Irr2Gqu86Pnw5OljO.ILClM_2aEZVEYoyBYSeM1a_zHE_
+ onAjXiBdPk_TeMfWpUjB3ni29SmfZnbFWNRmJkeDawekL3Yrmw_vFRQ3gXtD
+ InzSWOWrGIkgcr3kSswynqJTvTi09fjL8zHv53hnQkQs0FcpCYxpPvhiGXyx
+ 1KSoFSzh3KLxQbzrGDJcJBCRL3db9IC6Z3Y_cFH1kgzThTsSn6OUZnrLeBFI
+ Fyiy_p8mybTufOwPFjqz3ilxcn9.BagVyYYEAOFvG0X6p7tX15CUPBpCcIl6
+ Pzu0o0eGtZCKMX1ZdVLHpDuR_BnPpz_9xI7qwZhgT.b.h25HZm1tQtU6NNJP
+ rLEqaxFRBMYYf.jqGYrKWVUn8W7wxcGFTIvrERNgXCQ2XeN8b27CCfPwsNsm
+ rMe3rFPLoLplFNOYHit522V_ciuhiaHRmhhRTEhOYHYqbSHst169xv9KMZru
+ ks71csDNfoiFnspsKwDgpI5pmG20Fn_O6.J9.KntR0SFeb3Gdo2GTbAgW00I
+ A300JhEB0UxNtPqtmr7KOnb9oqo.Oce9L8Kgrijx9TD3vH70JRL12Db511Te
+ dfOt08JEdKg20lnwbROV1p72XYPS8Bdh8eA5zzfQqOnI17npnzUCChn335L4
+ FjHPgoMuuGN6VtkgMj27tqBrP8_AnweVBJPWOUmzV6brZrucYHWsWECVJiGz
+ b_w2FpBdTUJzbAwczHnGUOuA5Qqi_t69Bls5JtR6B7_hwF1x6ljZ2VGCG_zx
+ nNN8HHoODuPZHtbgJ0I_43bZoTm58FdG_JdnlkwWpfow466SxxcHrM7K7lbA
+ fkcVoDDOC5IkuqnjIHsinEzwwMUQ7aOd8yXSIm11i6Q0bhKQXEFDe7K1CsPY
+ eB_l_TgtqLkqHr15N_tZnKTbUaIaWOrbfmaUeIhKLLcPfViixWCE6sHhtFyn
+ eZKRCD_xFDGliiiuolRMIehdrcnj3XWzixdGlkrauIYV2_Y.0jk6Bw.5wc3P
+ LWnBUhhlxoWOYwiznkzXo1IeLS_XpmLAbTgu_Bx9Y.PzUZpBmbipdsq8uY_L
+ tOT7ZZvkC6jigpgBh_01HkO3F_SHk2YwERfHQAaXsr87I43wTwyvfqG4i96g
+ XqNYW.oZzopNXnJoQcLHmaQbZR6g1td6W2buzg9M1saThSxwYIJA60uGfNtM
+ IDfSBS6k4Go6H2GbPvuFC7zE2iAaK3auLq6cn6X4qnZ5aO2vklVSuJaXuTUu
+ tD6z107RvnIdN_6b1p_Tik_zvpUsVqlT3kdpcrGTkzTmqiNcPac3mhCZ3ggp
+ 8kHGeF753ABFK7rbXkv92KNgufKUVVG.xCGFTznQ6RwnyY24PWnMA6KuHZPg
+ uK1kudLq4W5y1i8uORQ3cSgPje2aoqLIl6NW2B17oEISKwtfeDaq6vmgXFJL
+ 1Hr6S0ntrOH03rD4p.aNwCS5iN4PcG98kQ7cJAtKYOfMmDaAQACor3zr
+X-Originating-IP: [66.220.155.135]
+Authentication-Results: mta1206.mail.sg3.yahoo.com  from=facebookmail.com; domainkeys=neutral (no sig);  from=facebookmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mx-out.facebook.com) (66.220.155.135)
+  by mta1206.mail.sg3.yahoo.com with SMTPS; Sat, 18 Oct 2014 07:22:35 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1413616954;
+	bh=f1i4ChS2V2WFud2F3pLLaMBtc69ukXUxkFmUiffjVS4=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=ovI52Am25/nIptGR1vZ1QmNEtq45Ru/WyoN7IHFUflsL/AKZXZZdQn9EscjtEc7IZ
+	 u5fwMAyITPeLZXjqsOBicZUYPPjRtq+lS8KSetYnz7O0JBsxe4QS0PP2hvTodxB3re
+	 xJkAED+mdpdGP0FvZKVJGI6sNEEQHSOrJVO2lc/0=
+Received: from facebook.com (TfhUU/FFD/bSyCi/og2sQdbf+BuueZXh5m/hnJTOa1hbEosYbG6sygu74VoJhDDn 10.223.77.83)
+ by facebook.com with Thrift id 87b6368a569711e4b91524be05953b80-9e3e93e0;
+ Sat, 18 Oct 2014 00:22:34 -0700
+X-Facebook: from 10.156.177.37 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Sat, 18 Oct 2014 00:22:34 -0700
+Return-Path: notification+zrdodizgfvie@facebookmail.com
+To: Linux Win <thuanthienkiemqn@yahoo.com.vn>
+From: "Facebook" <notification+zrdodizgfvie@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: =?UTF-8?B?W1F1eSBOaMahbiAzMHNdIA==?=
+ =?UTF-8?B?VGluIG5o4bqvbiBt4bubaSB04bur?=
+ =?UTF-8?B?IExpbmggRG9uZw==?=
+Message-ID: <b3619d0a614d42023060809c972bbddd@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zrdodizgfvie@facebookmail.com
+X-Facebook-Notify: msg; from=100007077106004; t=mid.1413615150811:4a9111f7fd85847b50; mailid=aac1265G5af3ec870ad1G0G0G3e2271b7
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_b3619d0a614d42023060809c972bbddd"
+Content-Length: 13503
+
+
+--b1_b3619d0a614d42023060809c972bbddd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Linh g=E1=BB=ADi cho b=E1=BA=A1n m=E1=BB=99t tin nh=E1=BA=AFn.
+
+--------------------
+
+
+
+LIST SIM VIP NH=E1=BA=A4T TH=E1=BB=8A TR=C6=AF=E1=BB=9CNG
+0919656565=3D65trieu
+0979101010=3D80trieu
+0979882882=3D30trieu
+0977882882=3D30trieu
+0973881881=3D28trieu
+0997111777=3D25trieu
+0964111333=3D25trieu
+0964111555=3D26.5trieu
+0965000444=3D19trieu
+0964222777=3D27trieu
+0964111777=3D27trieu
+0967000333=3D25trieu
+0967000222=3D25trieu
+0967000111=3D25trieu
+0967000444=3D19trieu
+0913168168=3D168trieu
+0917168168=3D128trieu
+0965789789=3D95trieu
+0975678678=3D60trieu
+0967556677=3D45trieu
+0945556677=3D45trieu
+0965898888=3D110trieu
+0966498888=3D55trieu
+0937098888=3D79trieu
+0933218888=3D79trieu
+0906748888=3D75trieu
+0979007777=3D75trieu
+0909873333=3D29trieu
+0908887888=3D65trieu
+0972222226=3D55trieu
+0932222226=3D55trieu
+0932222229=3D65trieu
+0983333335=3D55trieu
+0943333338=3D45trieu
+0965555557=3D55trieu
+0965555558=3D65trieu
+0935555558=3D69trieu
+0965555559=3D69trieu
+0968888887=3D87trieu
+0978888881=3D81trieu
+0978888884=3D84trieu
+0967777799=3D65trieu
+0985777779=3D58trieu
+0967666669=3D35trieu
+0987555558=3D22trieu
+0985333337=3D18trieu
+0966000006=3D29trieu
+0966000007=3D28trieu
+0945000007=3D19trieu
+0945000008=3D18trieu
+0975111116=3D16trieu
+0966000002=3D16trieu
+0966000003=3D16trieu
+0966000004=3D16trieu
+0966000005=3D16trieu
+0968888838=3D68trieu
+0968888878=3D58trieu
+0987777707=3D26trieu
+0918886668=3D65trieu
+0918066688=3D22trieu
+0967898866=3D33trieu
+0962228866=3D22trieu
+0978928686=3D16trieu
+0968618686=3D22trieu
+0967778686=3D22trieu
+0933296868=3D29trieu
+0933226868=3D42trieu
+0979496868=3D26trieu
+0975936868=3D25trieu
+0966856868=3D33trieu
+0988276868=3D29trieu
+0937366868=3D29trieu
+0963786868=3D26trieu
+0967556868=3D29trieu
+0978726868=3D26trieu
+0978876868=3D38trieu
+0972838668=3D10trieu
+0908148668=3D9trieu
+0938378668=3D10trieu
+0937698668=3D10trieu
+0933488668=3D9trieu
+0978248668=3D9trieu
+0973768668=3D9trieu
+0917817979=3D18trieu
+0944197979=3D19trieu
+0967891199=3D18trieu
+0967998899=3D50trieu
+0965998899=3D50trieu
+0967889988=3D50trieu
+0948997799=3D39trieu
+0967997799=3D45trieu
+0969994499=3D19trieu
+0984770077=3D15trieu
+0966000011=3D16trieu
+0966000022=3D16trieu
+0966000033=3D16trieu
+0966000044=3D16trieu
+0966000055=3D16trieu
+0968000077=3D18trieu
+0933000077=3D18trieu
+0989333355=3D18trieu
+096.72.56789 68Trieu
+0937.16.6789 22Trieu
+0964.81.6789 =C4=90=C3=A3 b=C3=A1n
+097.58.23456 23Trieu
+0965.51.51.51 25Trieu
+0937.26.7777 28Trieu
+0964.01.7777 25Trieu
+0964.02.7777 25Trieu
+0983.27.4444 9Trieu
+0972.95.4444 9Trieu
+0976.57.4444 9Trieu
+0975.10.1111 16Trieu
+0972.94.1111 11Trieu
+0963.47.2222 80Trieu
+0967.084.999 38Trieu
+0977.58.3456 10Trieu
+0972.38.4567 7Trieu
+0976.89.4567 7Trieu
+0973.59.4567 7Trieu
+0967.72.1234 3.5Trieu
+0962.97.1234 3.5Trieu
+0967.268.868 9Trieu
+0967.368.868 9Trieu
+0963.177779 9Trieu
+096.38.77779 9Trieu
+0975.100001 9Trieu
+0967.168.179 9Trieu
+0979.09.10.11 8Trieu
+0962.56.1102 20Trieu
+0975.564.564 5Trieu
+0967.914.914 5Trieu
+0967.831.831 5Trieu
+0988.24.39.39 5Trieu
+0963.47.2222 12Trieu
+Xem th=C3=AAm s=E1=BB=91 t=E1=BA=A1i TongHopSim .Com
+LH:0932.139.139
+--------------------
+
+=C4=90=E1=BB=83 tr=E1=BA=A3 l=E1=BB=9Di n=E1=BB=99i dung tin nh=E1=BA=AFn, =
+h=C3=A3y nh=E1=BA=A5p v=C3=A0o li=C3=AAn k=E1=BA=BFt b=C3=AAn =
+d=C6=B0=E1=BB=9Bi:
+https://www.facebook.com/n/?quynhon30s%2Fmanager&tab=3Dmessages_inbox&acti=
+on=3Dread&tid=3Dmid.1413615150811%3A4a9111f7fd85847b50&medium=3Demail&mid=
+=3Daac1265G5af3ec870ad1G0G0G3e2271b7&bcode=3D1.1413616954.AbmkAgVt_3_pK6_r=
+&n_m=3Dthuanthienkiemqn%40yahoo.com.vn
+
+T=C3=ACm ng=C6=B0=E1=BB=9Di t=E1=BB=AB s=E1=BB=95 =C4=91=E1=BB=8Ba =
+ch=E1=BB=89 Yahoo! c=E1=BB=A7a b=E1=BA=A1n tr=C3=AAn Facebook! =
+Chuy=E1=BB=83n t=E1=BB=9Bi:
+https://www.facebook.com/n/?find-friends%2F&ref=3Demail&medium=3Demail&mid=
+=3Daac1265G5af3ec870ad1G0G0G3e2271b7&bcode=3D1.1413616954.AbmkAgVt_3_pK6_r=
+&n_m=3Dthuanthienkiemqn%40yahoo.com.vn
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Tin nh=E1=BA=AFn n=C3=A0y =C4=91=C3=A3 =C4=91=C6=B0=E1=BB=A3c g=E1=BB=ADi =
+t=E1=BB=9Bi thuanthienkiemqn@yahoo.com.vn. N=E1=BA=BFu b=E1=BA=A1n =
+kh=C3=B4ng mu=E1=BB=91n nh=E1=BA=ADn nh=E1=BB=AFng email nh=C6=B0 =
+th=E1=BA=BF n=C3=A0y t=E1=BB=AB Facebook trong t=C6=B0=C6=A1ng lai, vui =
+l=C3=B2ng nh=E1=BA=A5p v=C3=A0o li=C3=AAn k=E1=BA=BFt b=C3=AAn =
+d=C6=B0=E1=BB=9Bi =C4=91=E1=BB=83 h=E1=BB=A7y =C4=91=C4=83ng k=C3=BD.
+https://www.facebook.com/o.php?k=3DAS0VJmOD7NdKsLro&u=3D100003691825873&mi=
+d=3Daac1265G5af3ec870ad1G0G0G3e2271b7
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_b3619d0a614d42023060809c972bbddd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><style type=3D"text/css">a.thumb:link, a.thumb:visited =
+{border:1px #CCCCCC solid !important;}a.thumb:active, a.thumb:hover =
+{border:1px #3B5998 solid !important;}.uiScaledImageContainer {position: =
+relative;overflow: hidden;}</style><title>Facebook</title></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table width=3D"98%" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"8"><tr><td =
+bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"500"><tr><td colspan=3D"2" =
+style=3D"padding:10px 0 0 =
+10px;color:#000000;font-size:13px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;" valign=3D"top"><table =
+width=3D"100%" style=3D"color:#000000;font-size:13px;"><tr><td =
+width=3D"100%" valign=3D"top" align=3D"left" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;color:#000000;font-size:13px;"><di=
+v style=3D"width:100%;color:#666666;padding:0 0 7px =
+0;border-bottom:#E9E9E9 1px solid;">Cu=E1=BB=99c tr=C3=B2 chuy=E1=BB=87n =
+gi=E1=BB=AFa <a =
+href=3D"https://www.facebook.com/profile.php?id=3D100007077106004" =
+style=3D"color:#3b5998; text-decoration:none;">Linh Dong</a> v=C3=A0 <a =
+href=3D"https://www.facebook.com/quynhon30s" style=3D"color:#3b5998; =
+text-decoration:none;">Quy Nh=C6=A1n 30s</a></div><div =
+style=3D"margin-bottom:15px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;padding-top:7px;"><tr><td valign=3D"top" =
+style=3D"padding:3px 5px 5px 0px;width:57px;"><a =
+href=3D"https://www.facebook.com/profile.php?id=3D100007077106004" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbcdn-pr=
+ofile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c8.0.50.50/p50x50/10402871_=
+1455538588025364_5628602992903573029_n.jpg?oh=3D1a22c623f1239684121dbca555=
+edaa74&amp;oe=3D54F3C7F2&amp;__gda__=3D1421249475_81c0a62c23e0fbc0dae75e01=
+b90e6dda" alt=3D"Linh Dong" style=3D"border: 0; height:50px; width:50px; " =
+/></a></td><td valign=3D"top" align=3D"left" style=3D"padding:5px 5px 5px =
+0;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width:100%;padding-bottom:5px;"><tr><td =
+style=3D"font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-s=
+erif;color:#000000;font-size:13px;"><a =
+style=3D"color:#3b5998;text-decoration:none;font-weight:bold;" =
+href=3D"https://www.facebook.com/profile.php?id=3D100007077106004">Linh =
+Dong</a></td><td style=3D"text-align:right;color:#999999;padding-right:5px=
+;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:11px;"> 18 =
+Th=C3=A1ng 10 13:52 </td></tr></table><div style=3D"width:458px;word-wrap:=
+break-word;padding-bottom:7px;color:#000000;font-size:13px;">LIST SIM VIP =
+NH=E1=BA=A4T TH=E1=BB=8A TR=C6=AF=E1=BB=9CNG<br /> 0919656565=3D65trieu<br =
+/> 0979101010=3D80trieu<br /> 0979882882=3D30trieu<br /> =
+0977882882=3D30trieu<br /> 0973881881=3D28trieu<br /> =
+0997111777=3D25trieu<br /> 0964111333=3D25trieu<br /> =
+0964111555=3D26.5trieu<br /> 0965000444=3D19trieu<br /> =
+0964222777=3D27trieu<br /> 0964111777=3D27trieu<br /> =
+0967000333=3D25trieu<br /> 0967000222=3D25trieu<br /> =
+0967000111=3D25trieu<br /> 0967000444=3D19trieu<br /> =
+0913168168=3D168trieu<br /> 0917168168=3D128trieu<br /> =
+0965789789=3D95trieu<br /> 0975678678=3D60trieu<br /> =
+0967556677=3D45trieu<br /> 0945556677=3D45trieu<br /> =
+0965898888=3D110trieu<br /> 0966498888=3D55trieu<br /> =
+0937098888=3D79trieu<br /> 0933218888=3D79trieu<br /> =
+0906748888=3D75trieu<br /> 0979007777=3D75trieu<br /> =
+0909873333=3D29trieu<br /> 0908887888=3D65trieu<br /> =
+0972222226=3D55trieu<br /> 0932222226=3D55trieu<br /> =
+0932222229=3D65trieu<br /> 0983333335=3D55trieu<br /> =
+0943333338=3D45trieu<br /> 0965555557=3D55trieu<br /> =
+0965555558=3D65trieu<br /> 0935555558=3D69trieu<br /> =
+0965555559=3D69trieu<br /> 0968888887=3D87trieu<br /> =
+0978888881=3D81trieu<br /> 0978888884=3D84trieu<br /> =
+0967777799=3D65trieu<br /> 0985777779=3D58trieu<br /> =
+0967666669=3D35trieu<br /> 0987555558=3D22trieu<br /> =
+0985333337=3D18trieu<br /> 0966000006=3D29trieu<br /> =
+0966000007=3D28trieu<br /> 0945000007=3D19trieu<br /> =
+0945000008=3D18trieu<br /> 0975111116=3D16trieu<br /> =
+0966000002=3D16trieu<br /> 0966000003=3D16trieu<br /> =
+0966000004=3D16trieu<br /> 0966000005=3D16trieu<br /> =
+0968888838=3D68trieu<br /> 0968888878=3D58trieu<br /> =
+0987777707=3D26trieu<br /> 0918886668=3D65trieu<br /> =
+0918066688=3D22trieu<br /> 0967898866=3D33trieu<br /> =
+0962228866=3D22trieu<br /> 0978928686=3D16trieu<br /> =
+0968618686=3D22trieu<br /> 0967778686=3D22trieu<br /> =
+0933296868=3D29trieu<br /> 0933226868=3D42trieu<br /> =
+0979496868=3D26trieu<br /> 0975936868=3D25trieu<br /> =
+0966856868=3D33trieu<br /> 0988276868=3D29trieu<br /> =
+0937366868=3D29trieu<br /> 0963786868=3D26trieu<br /> =
+0967556868=3D29trieu<br /> 0978726868=3D26trieu<br /> =
+0978876868=3D38trieu<br /> 0972838668=3D10trieu<br /> =
+0908148668=3D9trieu<br /> 0938378668=3D10trieu<br /> =
+0937698668=3D10trieu<br /> 0933488668=3D9trieu<br /> =
+0978248668=3D9trieu<br /> 0973768668=3D9trieu<br /> =
+0917817979=3D18trieu<br /> 0944197979=3D19trieu<br /> =
+0967891199=3D18trieu<br /> 0967998899=3D50trieu<br /> =
+0965998899=3D50trieu<br /> 0967889988=3D50trieu<br /> =
+0948997799=3D39trieu<br /> 0967997799=3D45trieu<br /> =
+0969994499=3D19trieu<br /> 0984770077=3D15trieu<br /> =
+0966000011=3D16trieu<br /> 0966000022=3D16trieu<br /> =
+0966000033=3D16trieu<br /> 0966000044=3D16trieu<br /> =
+0966000055=3D16trieu<br /> 0968000077=3D18trieu<br /> =
+0933000077=3D18trieu<br /> 0989333355=3D18trieu<br /> 096.72.56789 =
+68Trieu<br /> 0937.16.6789 22Trieu<br /> 0964.81.6789 =C4=90=C3=A3 =
+b=C3=A1n<br /> 097.58.23456 23Trieu<br /> 0965.51.51.51 25Trieu<br /> =
+0937.26.7777 28Trieu<br /> 0964.01.7777 25Trieu<br /> 0964.02.7777 =
+25Trieu<br /> 0983.27.4444 9Trieu<br /> 0972.95.4444 9Trieu<br /> =
+0976.57.4444 9Trieu<br /> 0975.10.1111 16Trieu<br /> 0972.94.1111 =
+11Trieu<br /> 0963.47.2222 80Trieu<br /> 0967.084.999 38Trieu<br /> =
+0977.58.3456 10Trieu<br /> 0972.38.4567 7Trieu<br /> 0976.89.4567 =
+7Trieu<br /> 0973.59.4567 7Trieu<br /> 0967.72.1234 3.5Trieu<br /> =
+0962.97.1234 3.5Trieu<br /> 0967.268.868 9Trieu<br /> 0967.368.868 =
+9Trieu<br /> 0963.177779 9Trieu<br /> 096.38.77779 9Trieu<br /> =
+0975.100001 9Trieu<br /> 0967.168.179 9Trieu<br /> 0979.09.10.11 8Trieu<br =
+/> 0962.56.1102 20Trieu<br /> 0975.564.564 5Trieu<br /> 0967.914.914 =
+5Trieu<br /> 0967.831.831 5Trieu<br /> 0988.24.39.39 5Trieu<br /> =
+0963.47.2222 12Trieu<br /> Xem th=C3=AAm s=E1=BB=91 t=E1=BA=A1i TongHopSim =
+.Com<br /> LH:0932.139.139</div><div style=3D"padding:10px 0 0 =
+0;color:#000000;font-size:13px;"></div></td></tr></table></div></td></tr><=
+/table><span style=3D""><img src=3D"https://www.facebook.com/email_open_lo=
+g_pic.php?mid=3Daac1265G5af3ec870ad1G0G0G3e2271b7" =
+style=3D"border:0;width:1px;height:1px;" /></span><br /></td></tr><tr><td =
+colspan=3D"2" style=3D"color:#666666;padding:10px 5px 15px =
+10px;border-top:#E9E9E9 1px solid;line-height: 18px;font-size: =
+12px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;"><a =
+href=3D"https://www.facebook.com/n/?quynhon30s%2Fmanager&amp;tab=3Dmessage=
+s_inbox&amp;action=3Dread&amp;tid=3Dmid.1413615150811%3A4a9111f7fd85847b50=
+&amp;medium=3Demail&amp;mid=3Daac1265G5af3ec870ad1G0G0G3e2271b7&amp;bcode=
+=3D1.1413616954.AbmkAgVt_3_pK6_r&amp;n_m=3Dthuanthienkiemqn%40yahoo.com.vn=
+" style=3D"color:#3b5998; text-decoration:none;">Xem Cu=E1=BB=99c tr=C3=B2 =
+chuy=E1=BB=87n tr=C3=AAn Facebook</a><br>Tin nh=E1=BA=AFn n=C3=A0y =
+=C4=91=C3=A3 =C4=91=C6=B0=E1=BB=A3c g=E1=BB=ADi t=E1=BB=9Bi <a =
+href=3D"mailto:thuanthienkiemqn&#064;yahoo.com.vn" style=3D"color:#3b5998;=
+text-decoration:none;">thuanthienkiemqn&#064;yahoo.com.vn</a>. N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng mu=E1=BB=91n nh=E1=BA=ADn nh=E1=BB=AFng email =
+nh=C6=B0 th=E1=BA=BF n=C3=A0y t=E1=BB=AB Facebook trong t=C6=B0=C6=A1ng =
+lai, vui l=C3=B2ng <a href=3D"https://www.facebook.com/o.php?k=3DAS0VJmOD7=
+NdKsLro&amp;u=3D100003691825873&amp;mid=3Daac1265G5af3ec870ad1G0G0G3e2271b=
+7" style=3D"color:#3b5998;text-decoration:none;">h=E1=BB=A7y =
+=C4=91=C4=83ng k=C3=BD</a>.<br />Facebook, Inc., Attention: Department =
+415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table></td></tr></table></body></html>
+
+
+
+--b1_b3619d0a614d42023060809c972bbddd--
+

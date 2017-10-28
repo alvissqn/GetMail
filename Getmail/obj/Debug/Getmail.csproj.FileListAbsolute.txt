@@ -1,0 +1,10 @@
+E:\thuchanhc#\Getmail\Getmail\bin\Debug\Getmail.exe.config
+E:\thuchanhc#\Getmail\Getmail\bin\Debug\Getmail.exe
+E:\thuchanhc#\Getmail\Getmail\bin\Debug\Getmail.pdb
+E:\thuchanhc#\Getmail\Getmail\bin\Debug\EAGetMail.dll
+E:\thuchanhc#\Getmail\Getmail\obj\Debug\Getmail.csprojResolveAssemblyReference.cache
+E:\thuchanhc#\Getmail\Getmail\obj\Debug\Getmail.Form1.resources
+E:\thuchanhc#\Getmail\Getmail\obj\Debug\Getmail.Properties.Resources.resources
+E:\thuchanhc#\Getmail\Getmail\obj\Debug\Getmail.csproj.GenerateResource.Cache
+E:\thuchanhc#\Getmail\Getmail\obj\Debug\Getmail.exe
+E:\thuchanhc#\Getmail\Getmail\obj\Debug\Getmail.pdb

@@ -1,0 +1,285 @@
+X-Apparently-To: thuanthienkiemqn@yahoo.com.vn via 106.10.145.28; Wed, 20 Aug 2014 13:27:32 +0000
+Return-Path: <erika@hrbrokerage.com>
+Received-SPF: neutral (209.85.213.48 is neither permitted nor denied by domain of hrbrokerage.com)
+X-YMailISG: OsaWJigWLDvBP_kUxAR4p_z6rXnTE0DnyVstZW9DKP82._MU
+ QqUM65Ziap6V15SrYMSeXXhJXIpydFtRj7weWqyg9L7zBUsGjUPzK70aNinn
+ tCWN_xH3PnTBNagJ1mZZ2JWLZwQkqOMtbKHnWF.v7f9vpoGBO4h.KKvEtwVS
+ _XvrTwY1vGHUh9fHrCu.PSAprVZEoVkmrm8wdJXuiHAyncCycAelg4uERigP
+ vyg9AQl_u39aSKz2J48UPV6_yVczbslF6DuynRTwXXh39ONoJU1G_Lx3PBrg
+ H8BmKb2N7Vi79BakqoxpPujKQX0NGjbJ2AR80zOwXfoMF7XmFdr0kVw1KaKV
+ rIZP8tYaak6e2In5m966A73HdNUOn5s_8ILdwG4nwyD_2lNAXNWaj6ybIWzv
+ y_C.0jjw35JHgzGf7R0a2aXuEN_84deJaOkx0BO217imjQmfPpQza15eGAMe
+ 7rArC0Wdix8NvnfDzOVtDKLKVD__xgoTAPzePQSR8xS7sohIzFLyRpA1_oVx
+ MI7mSjMwns7h.w9mlhV1d_BcOgTtH9p4vJmGqNrgv4pdo_.JiiPtRNjX24C7
+ fWdoDGL8V58es3Vz2rBUG4Hj_2qisxu6sdabVDJp06v8ax2iJOv6FVOPuvfU
+ pQmvAj3X63Ka9vN_NxXJ2MniO21KA.qZcrmnK4jCkiLBb4j4Vr.D5AS2hhPS
+ O5DvaNiAMBNY6EgObKqzXvaHhSu8tTCFqR0gR1LKtbi1bVfM4C.GVns3Dnif
+ DVm8d1Gyn0H1Gco33dn7rZlHe0hIA3UpEuLmOA6r3Q0pMoz13NGo5ju_nPi8
+ y.LzEpZGktxmZnrY.Y6yeT7PLsuD6_EhebSDAw68HyUsM1yqkuDZEfYCJ_IE
+ 3mbop83tAfM2lTnP8fuI1rrQwzbK1xtwPwVYKkQjQJD82nIaSR6OilVxZ5KH
+ km_BwCqlqQp7o1Ub9xe0Uzttq3wZ1UtyB63MUlTeQbD60DlJvUSRaJVp7Ij2
+ q0IFoiuXsasntYznMOCLjCX1108Pzt_irGlPwZ1osa8l3jFZOxVypv9VqlF_
+ 2nzwTbihtrbvqNhmgeVQ6RSK22KZu0MDfYZD7vzhKlordwWUyoJ47psl4hDO
+ y1mxh.hZBOoA5gvQoWUp35GODZgQYKOiiOZmH70krmEeROthTR8kViP4Fnrp
+ O.wZUcB0Jjh7nFFmS9SwOxnT0QG1Jnp_Okuaix1_pcXG3vUYvTnQfTN2.e1I
+ uM0dRl3YF0lmAwOnivZrco6WMUHtVgaIEXVpfYFdIrXWbiEE0UYY6nV7AsXP
+ jMpZWC5IR4NuU0RhLCnlPLMYI44GgtXTPmbmfOq4Jsm6LmeBlzRmpHKwd8M0
+ 7uZH24TJwh0BC5U7mPHsjhZVPm1naA8ypBkrEzimeDA4ULYp72FTqSKE3n8n
+ 4uGPxxpk0_d6eG.j2PkXNGL.XZpqGllyrbgTbfjVn6BNI9kmVPTZ8OzS3sQR
+ FY1jwtzGCFE__A0N37NNOIIvmFhPn1cxVrUS6qROCE686sxJbxIw2i5m4ygk
+ eexRLyQ7h7qnsZG.TheGqtKf9sCCXCaS3v8N3ynnmi2c10IFXgBRG8zWh_FJ
+ ib6dHiUPewA-
+X-Originating-IP: [209.85.213.48]
+Authentication-Results: mta1215.mail.sg3.yahoo.com  from=hrbrokerage.com; domainkeys=neutral (no sig);  from=hrbrokerage.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mail-yh0-f48.google.com) (209.85.213.48)
+  by mta1215.mail.sg3.yahoo.com with SMTPS; Wed, 20 Aug 2014 13:27:32 +0000
+Received: by mail-yh0-f48.google.com with SMTP id i57so6834211yha.7
+        for <thuanthienkiemqn@yahoo.com.vn>; Wed, 20 Aug 2014 06:27:28 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=i/M3JHuQPROCu0y5YEclfRy0wNmsvp0vgXbe+g65200=;
+        b=enS0hrj0qZqgUwKJgtKVIyJUFu5SHlnv1sG54CL8QnsGnztLl9XDnGMNsmFP/8OBS6
+         PiMSLgKfuYhckn2qlJnTL4QdTsCywoVd4vXM9qaFLJEtTcS6fNUKKY0nOY/qGvhTRPW+
+         3Tnhf9TrBM4LcPpWPd5rIC4wn+ZyaWw3VWUXD4bKkr8CRmUK1JGqG/m4M5AxzMnbzaxt
+         7Dv9xJvhSmobJYmpwfJABrl5M5nRDYsJrMmIpE4sm5CPiy/RqbWNRnKByD2fC6KO3O3k
+         rXgZLQuPvh7pKgzfo8PgVczumA5jUPrdVRKt9TjeIvRPNsJxcdJNtvUImMCCUtAjgLw3
+         9Urg==
+X-Gm-Message-State: ALoCoQm8G+xM0y8Wd/tR2M96W0KxIOhUZDiZXrQph3XlRplBjkQIEiqsbA0u1TYRXeEcc5e/XJrW
+MIME-Version: 1.0
+X-Received: by 10.236.160.67 with SMTP id t43mr74795616yhk.11.1408541247667;
+ Wed, 20 Aug 2014 06:27:27 -0700 (PDT)
+Received: by 10.170.212.65 with HTTP; Wed, 20 Aug 2014 06:27:27 -0700 (PDT)
+Date: Wed, 20 Aug 2014 21:27:27 +0800
+Message-ID: <CAELgaKmVspbz3FGBdvoj2xcLNTC7xhGS5sU5CxpMN4DR75xVrA@mail.gmail.com>
+Subject: Your .Club Domain is Now Available
+From: Erika Crystal <erika@hrbrokerage.com>
+To: thuanthienkiemqn@yahoo.com.vn
+Content-Type: multipart/alternative; boundary=20cf304353a8b829af05010f9031
+Content-Length: 9437
+
+--20cf304353a8b829af05010f9031
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Manager,
+
+
+You may or may not be aware, but one of the biggest changes has just taken
+place for CLUBS around the world.
+
+
+Just like 25 years ago when .com became available, the new domain extension
+.CLUB has just been released.
+
+
+I am writing to you because you own ANCHOICLUB.ORG
+<http://100pointclub.com/> and you can now secure the domain name
+ANCHOI.CLUB.
+
+It's not only shorter, but most importantly it brands you as a CLUB
+and is easier
+for people to search for you online.
+
+
+The best part is you don=E2=80=99t need to change anything, your simply inv=
+esting
+in the future like you did when you bought the .com domain years ago.
+
+
+The .CLUB domain extension has only been available for a very short period
+of time. Already in excess of 90,000 clubs just like yours have bought
+their new domain name. These clubs see the benefits of a shorter domain
+name that is specific to CLUBS. Also a really important point is that it
+stops anyone else registering your clubs name and leveraging all your hard =
+work
+building your .com brand.
+
+
+As seen on TV .CLUB has CLUBS around the world buzzing and is supported by
+big businesses and celebrities. Go to http://youtu.be/mrs_mTOlPEY
+<http://youtu.be/mrs_mTOlPEY>
+
+to watch the dot CLUB video.
+
+
+
+If you want to lock away your .CLUB domain name today we make it simple for
+you, simply hit reply to this email with your best contact number and we
+will arrange it all for you, or alternatively you can email
+info@hrbrokerage.com for a .CLUB information pack.
+
+
+Best Regards,
+
+
+Houghton Richards
+
+
+Worldwide Office Locations
+
+Australia | United States | Hong Kong | Xiamen, China | Clark
+
+
+To opt out of emails from Houghton Richards visit:
+
+http://houghtonrichards.com/Optout
+<http://houghtonrichards.com/Optout/index.php>
+Attachments area
+Preview YouTube video .CLUB Is Everywhere!
+ <http://www.youtube.com/watch?v=3Dmrs_mTOlPEY&authuser=3D0>
+
+--20cf304353a8b829af05010f9031
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div style=3D"font-size:13px;margin-botto=
+m:0px;margin-left:0px;padding-bottom:5px;font-family:arial,sans-serif">
+<div style=3D"overflow:hidden"><div dir=3D"ltr"><p style=3D"margin:0px">
+<span style=3D"letter-spacing:0px;font-family:Arial;font-size:14px">Hi Mana=
+ger,</span><br></p><p style=3D"margin:0px;font-size:14px;font-family:Arial;=
+min-height:16px"><span style=3D"letter-spacing:0px"></span><br></p><p style=
+=3D"margin:0px;font-size:14px;font-family:Arial">
+
+
+
+<span style=3D"letter-spacing:0px">You may or may not be aware, but one of =
+the biggest changes has just taken place for CLUBS around the world.</span>=
+</p><p style=3D"margin:0px;font-size:14px;font-family:Arial"><span style=3D=
+"letter-spacing:0px"><br>
+
+
+
+</span></p><p style=3D"margin:0px;font-size:14px;font-family:Arial"><span s=
+tyle=3D"letter-spacing:0px">Just like 25 years ago when .com became availab=
+le, the new domain extension .CLUB has just been released.=C2=A0</span><br>=
+</p>
+
+
+<p style=3D"margin:0px;font-size:14px;font-family:Arial;min-height:16px">
+<span style=3D"letter-spacing:0px"></span><br></p><p style=3D"margin:0px"><=
+span style=3D"font-family:Arial;font-size:14px;letter-spacing:0px">I am wri=
+ting to you because you own </span><span style=3D"font-family:Arial;font-si=
+ze:14px;letter-spacing:0px;color:rgb(13,73,189)"><span style=3D"letter-spac=
+ing:0px;color:rgb(18,66,155)"><a href=3D"http://100pointclub.com/" target=
+=3D"_blank">ANCHOICLUB.ORG</a></span></span><span style=3D"font-family:Aria=
+l;font-size:14px;letter-spacing:0px"> and=C2=A0</span><font face=3D"Arial">=
+<span style=3D"font-size:14px;letter-spacing:0px">you can now secure the=C2=
+=A0</span><span style=3D"font-size:14px;letter-spacing:0px">domain name ANC=
+HOI.CLUB.=C2=A0</span></font></p>
+
+
+
+<p style=3D"margin:0px"><font face=3D"Arial"><span style=3D"font-size:14px;=
+letter-spacing:0px">It&#39;s not only shorter, but most importantly it bran=
+ds you as a CLUB and is=C2=A0</span><span style=3D"font-size:14px">easier f=
+or</span><span style=3D"font-size:14px;letter-spacing:0px">=C2=A0people to =
+search for you online.</span></font></p>
+
+
+
+<p style=3D"margin:0px"><font face=3D"Arial"><span style=3D"font-size:14px;=
+letter-spacing:0px"><br></span></font></p><p style=3D"margin:0px;font-size:=
+14px;font-family:Arial"><span style=3D"letter-spacing:0px">The
+ best part is you don=E2=80=99t need to change anything, your simply invest=
+ing=20
+in the future like you did when you bought the .com domain years ago.</span=
+><br>
+
+</p><p style=3D"margin:0px;font-size:14px;font-family:Arial;min-height:16px=
+"><span style=3D"letter-spacing:0px"></span><br></p><p style=3D"margin:0px"=
+><font face=3D"Arial"><span style=3D"font-size:14px;letter-spacing:0px">The=
+ .CLUB domain extension has only been available for a very short period of =
+time.=C2=A0</span></font><span style=3D"font-family:Arial;font-size:14px;le=
+tter-spacing:0px">Already
+ in excess of 90,000 clubs just like yours have bought their new domain=20
+name. These clubs see the benefits of a shorter domain name that is=20
+specific to CLUBS. Also a really important point is that it stops anyone
+ else registering your clubs name and leveraging all your hard=C2=A0</span>=
+<span style=3D"font-family:Arial;font-size:14px">work building your .com br=
+and.</span></p>
+
+<p style=3D"margin:0px;font-size:12px;font-family:Helvetica;min-height:14px=
+"><span style=3D"letter-spacing:0px"></span><br></p><p style=3D"margin:0px"=
+><span style=3D"font-size:14px;font-family:Arial;letter-spacing:0px">As see=
+n on TV .CLUB has CLUBS around the world buzzing and is supported by big bu=
+sinesses and celebrities. Go to</span><span style=3D"letter-spacing:0px"><f=
+ont style=3D"font-size:12px" face=3D"Arial">=C2=A0</font><span style=3D"let=
+ter-spacing:0px;color:rgb(18,66,155)"><a href=3D"http://youtu.be/mrs_mTOlPE=
+Y" target=3D"_blank"><font face=3D"arial, helvetica, sans-serif">http://you=
+tu.be/mrs_mTOlPEY=C2=A0</font></a></span></span></p>
+
+
+
+<p style=3D"margin:0px;font-size:14px"><span style=3D"font-family:Arial">to=
+ watch the dot CLUB video.</span><br></p><p style=3D"margin:0px;font-size:1=
+4px;font-family:Arial"><span style=3D"letter-spacing:0px">=C2=A0=C2=A0</spa=
+n></p><p style=3D"margin:0px">
+
+
+
+</p><p style=3D"margin:0px"><font face=3D"Arial"><span style=3D"font-size:1=
+4px;letter-spacing:0px">If
+ you want to lock away your .CLUB domain name today we make it simple=20
+for you, simply hit reply to this email with your best contact number=20
+and we will arrange it all for you, or=C2=A0</span><span style=3D"font-size=
+:14px">alternatively</span><span style=3D"font-size:14px;letter-spacing:0px=
+">=C2=A0you can email=C2=A0</span></font><span style=3D"font-family:Arial;f=
+ont-size:14px;letter-spacing:0px;color:rgb(18,66,155)"><a href=3D"mailto:in=
+fo@hrbrokerage.com" target=3D"_blank">info@hrbrokerage.com</a></span><font =
+face=3D"Arial"><span style=3D"font-size:14px;letter-spacing:0px">=C2=A0for =
+a .CLUB information pack.</span></font></p>
+
+
+
+<p style=3D"margin:0px;font-size:14px;font-family:Arial"><span style=3D"let=
+ter-spacing:0px"><br></span></p><p style=3D"margin:0px;font-size:14px;font-=
+family:Arial">Best Regards,</p><p style=3D"margin:0px;font-size:14px;font-f=
+amily:Arial">
+
+
+
+<br></p><p style=3D"margin:0px;font-size:14px;font-family:Arial">Houghton R=
+ichards</p><p style=3D"margin:0px"><img src=3D"https://lh3.googleuserconten=
+t.com/-GgG2bbB2p3I/U7wRCnO09DI/AAAAAAAAAEA/aIXqNiI28vw/s192/hrsignature.png=
+" height=3D"143" width=3D"192"><span style=3D"letter-spacing:0px"><font fac=
+e=3D"arial, helvetica, sans-serif"><br>
+
+
+
+</font></span></p><p style=3D"margin:0px"><span style=3D"letter-spacing:0px=
+"><font face=3D"arial, helvetica, sans-serif">Worldw</font></span><span sty=
+le=3D"letter-spacing:0px"><font face=3D"arial, helvetica, sans-serif">ide O=
+</font></span><span style=3D"font-family:arial,helvetica,sans-serif;letter-=
+spacing:0px">ffice Locations</span></p>
+
+
+
+<p style=3D"margin:0px"><span style=3D"letter-spacing:0px"><font face=3D"ar=
+ial, helvetica, sans-serif">Australia | United States | Hong Kong | Xiamen,=
+ China | Clark</font></span></p><p style=3D"margin:0px;min-height:14px"><fo=
+nt face=3D"arial, helvetica, sans-serif"><span style=3D"letter-spacing:0px"=
+></span><br>
+
+
+
+</font></p><p style=3D"margin:0px"><span style=3D"letter-spacing:0px"><font=
+ face=3D"arial, helvetica, sans-serif">To opt out of emails from Houghton R=
+ichards visit:</font></span></p><p style=3D"margin:0px;font-size:12px;font-=
+family:Helvetica;color:rgb(18,66,155)">
+
+
+
+<span style=3D"text-decoration:underline;letter-spacing:0px"><a href=3D"htt=
+p://houghtonrichards.com/Optout/index.php" target=3D"_blank">http://houghto=
+nrichards.com/Optout</a></span></p></div></div></div></div><div><div>
+Attachments area</div><div><span><a href=3D"http://www.youtube.com/watch?v=
+=3Dmrs_mTOlPEY&amp;authuser=3D0" target=3D"_blank"><span>Preview YouTube vi=
+deo .CLUB Is Everywhere!</span><div>
+<div><img style=3D"margin:auto;max-width:120%;min-width:100%" src=3D"https:=
+//i.ytimg.com/vi/mrs_mTOlPEY/mqdefault.jpg"><div><div><img src=3D"https://s=
+sl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png"></div>
+</div></div></div></a></span></div></div></div>
+
+--20cf304353a8b829af05010f9031--

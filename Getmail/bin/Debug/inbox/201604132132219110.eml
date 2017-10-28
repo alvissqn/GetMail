@@ -1,0 +1,409 @@
+X-Apparently-To: thuanthienkiemqn@yahoo.com.vn via 106.10.144.228; Wed, 12 Mar 2014 08:15:30 +0000
+Return-Path: <bounce-md_30053007.532017a0.v1-2f849157fe704d758c8ce4b69c6c01a8@mandrillapp.com>
+Received-SPF: pass (domain of mandrillapp.com designates 198.2.128.6 as permitted sender)
+X-YMailISG: DNXvpCwWLDu1pw2knr43K1okxDlRiNRLO8puGfdi9PkTaCAs
+ uNpQmz0.BiUCeKEwdY4kzbM76.ApWgxl61z7Qf8StNDjJUDUqcLoKd4iOWhG
+ XDKIqb1.nP3Xz8MeCtYEn3eeYnUcvVj2qcQGFRe_bBTujI6wMDx577fUSER4
+ BGGwYNogLdCdYLNXCieo1QV5PjVsRX6gNj24F7CGvzhsvQK1A3d8NxU8wNTy
+ BYfjB_xpMOw9x5pZF2as8Gf1cldAsoeyUCGQeRhAyAT84udJxBurqX8TKrTr
+ lYHUCy4KkTqXY3_P0aSK3Pad71FdIag9H4TIHA8TMj2Ia.VZIhvYxM3KkvWD
+ 6o88vruS9YxLCMrUZ2QYmamlW6MQD32BlaZ_Gxvwa7E8aHBN7NzXDKtDkGpw
+ F_DNN3edlB7bffdG4LrI7LiBmmd.1A103ziFaNu2UZ1yDoFh94yivUaFY1jo
+ 5SVH8dsm7PYLaASqeBYdVxZ7p3QGW6RQiM3Tnj1dfqkY3tI5_1buZJ.VODIO
+ zdpKSXx_sFXv3PyHVqw2a7Uxum09XvaSwxBT2TDI1cR8Qt2np4NzPxxteWVI
+ 1PT6irSsSH.jEguFr8.DVj1RLLP9oS7zWZJLuafPEdVOJTqibB2GzvZOuVZG
+ 1lYDyDRkbNlgJvTujA5qBo0dng09_mhjuHLgNqUJgnJJ1lele2.4TIOdusSR
+ E6Ot3Cqx3jHTDIxWyghwrGkOszyXdnYDtptW5QNdXCuQpCuPkE410JA3nYc2
+ 9InFtzgaXacjPHm9L86lgjN1p8LDFna8Rr2M2zEGvonsOhBuBrkJwL7tfId8
+ xGuhmhOQuTSIdLCUgrz.2_AOLqOjSxo_5N0YKE03VogIMcpSjxdR8DkAE19O
+ c__1TsQam7GxPLJFhZiH6lZrVJRh03xvX2FDHtzBDvW5XteR_hZk1N7_pyiC
+ _E4FTayDVIMdqckrkFo.cyNZ6ISA.kco_UiCA3C1y37eij4nTqjZjd500u3u
+ 1EnzP_hz3QkgaLaXL7qpZUKECkG32MuUjl6MI4thVAJ4anndcZdbCcBfqEsD
+ K3ecm36XysT67j5Nn0B6I0k4bLj56imSeTU214YIW1Vz4S9xSA5XvXagwOAz
+ .XaMHeGOicYAtoqZzH1xtPJxqgd1ecHo4yqaxIhsA0IW6XYOQtkP28SNOAeY
+ yAlUxYlFMPqfJ7q8AcUAkM4_vtRgeiGnvxOx9iaI6isSMrhH_SmEC1TbsNaO
+ oZwidYJsfoL4uHuSiI1OTYfxrjv2ct_jqgJ7o4oIBjLew4qpbYLV9StT2_bT
+ j_C9veHk.NPU6.8sysn.4C62Q1RzeWdP4JEmkO8fkHb0xzpPNTjmC9Pl1drg
+ fljZZxjYZcOiaJSwRAS260RH_kLYInQ6Or7t1cNwXaTiLisNFz.99fC5v.2C
+ wMiDGe6ye.Rr0.M7O.NkhHirNohzNDHgk14Oie8ABuXRHFs4yaOBkSqcMQzM
+ QCJV79NboQuv3RxCFQ--
+X-Originating-IP: [198.2.128.6]
+Authentication-Results: mta1208.mail.sg3.yahoo.com  from=mail128-6.atl41.mandrillapp.com; domainkeys=pass (ok);  from=mandrillapp.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail128-6.atl41.mandrillapp.com) (198.2.128.6)
+  by mta1208.mail.sg3.yahoo.com with SMTP; Wed, 12 Mar 2014 08:15:30 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail128-6.atl41.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=no-reply@mail128-6.atl41.mandrillapp.com;
+ bh=DNz9DKoSzj3glo8ZQYV1CndTof0=;
+ b=GR35rf0v4OP0FH5Q5DhrwcOk2vq5Dm5COxhbSHN6vcgXhX6cD4ky8f3OHYwrEcJ7habNU7lvt12d
+   jlwtFELJ2A1WXC6mKbapOXVn0AbpK4nmHR6xLximmZlAJMv8LpzY/64W6ILwsgizXAGgmTs6O0ja
+   W8PEmluw7RleNxUEW1E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail128-6.atl41.mandrillapp.com;
+ b=Z37YiQfh9Kx7K5GRgrcoiCGcNyjvvioLRzRI8eBkAikycqxWs/mJEk5RJhM096d+QdxvXWgeQJ4s
+   WCXvDyeBkj2UQMycEZnRE350cBE95t9KMPLhhuDeRm4WC/T9UI7IvVUmR1k6dVwDxgIfWbXLddkj
+   GG4qk6O5HaMG/on+VUs=;
+Received: from localhost (127.0.0.1) by mail128-6.atl41.mandrillapp.com id h40bq21mquk1 for <thuanthienkiemqn@yahoo.com.vn>; Wed, 12 Mar 2014 08:15:28 +0000 (envelope-from <bounce-md_30053007.532017a0.v1-2f849157fe704d758c8ce4b69c6c01a8@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1394612128; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : From : Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=2X01DkbvFqONccDkgVv1VUBU0ajAaO8E0nLLRK7diBQ=; 
+ b=oIh1T5PEKNz5WhEke3Qj/83Hm5o2uDenfuGsrc951EgpFTgrZc8SkU017NGytMBrhnWdb9
+ 77i7GXX1iWgZOnrWmgmkgy5ldVRbHdExc7WqePdmW2tOQ44ww8dYGxCXREO0evL6q66lBfci
+ LEvwH70J26nGdWL4+gL3E3rNV26QY=
+From: FreelancerViet <no-reply@freelancerviet.vn>
+Sender: FreelancerViet <no-reply@mail128-6.atl41.mandrillapp.com>
+Subject: =?utf-8?Q?[FreelancerViet]=20C=E1=BA=ADp=20nh=E1=BA=ADt=20th=C3=B4ng=20tin?=
+Return-Path: <bounce-md_30053007.532017a0.v1-2f849157fe704d758c8ce4b69c6c01a8@mandrillapp.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.6 (https://github.com/PHPMailer/PHPMailer/)
+To: =?utf-8?Q?Nguy=E1=BB=85n=20Thi=C3=AAn=20V=C4=A9?= <thuanthienkiemqn@yahoo.com.vn>
+Message-Id: <bf36eacdc2bcdd82045c1bad79fb4507@freelancerviet.vn>
+Received: from [210.211.117.48] by mandrillapp.com id 2f849157fe704d758c8ce4b69c6c01a8; Wed, 12 Mar 2014 08:15:28 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30053007.2f849157fe704d758c8ce4b69c6c01a8
+X-Mandrill-User: md_30053007
+Date: Wed, 12 Mar 2014 08:15:28 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-Ws_iYyhuNE-o7SpECx4NGg"
+Content-Length: 18205
+
+--_av-Ws_iYyhuNE-o7SpECx4NGg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+C=E1=BA=ADp nh=E1=BA=ADt th=C3=B4ng tin
+                                                                           =
+             
+                                                                           =
+             
+                                                                           =
+                 Ch=C3=A0o Nguy=E1=BB=85n Thi=C3=AAn V=C4=A9,
+                                                                           =
+                 
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Vui l=
+=C3=B2ng click v=C3=A0o link b=C3=AAn d=C6=B0=E1=BB=9Bi v=C3=A0 s=E1=BB=AD =
+d=E1=BB=A5ng m=C3=A3 x=C3=A1c nh=E1=BA=ADn =C4=91=E1=BB=83 x=C3=A1c nh=E1=
+=BA=ADn th=C3=B4ng tin b=E1=BA=A1n =C4=91=C3=A3 c=E1=BA=ADp nh=E1=BA=ADt.
+                                                                           =
+                 M=C3=A3 x=C3=A1c nh=E1=BA=ADn : u48pAuG
+                                                                           =
+                 Link x=C3=A1c nh=E1=BA=ADn : http://mandrillapp.com/track/=
+click.php?u=3D30053007&id=3D2f849157fe704d758c8ce4b69c6c01a8&url=3Dhttp%3A%=
+2F%2Ffreelancerviet.vn%2Ffreelancer%2Fxac-nhan%2F25968da0895a70dc1bcf72a0e4=
+0089f9&url_id=3D2e112375409ff8ca2b6eb080bf2d39c2cc40e8f9
+                                                                           =
+             
+                                                                           =
+         
+                                                                           =
+     
+                                                                           =
+     
+                                                                           =
+         
+                                                                           =
+             
+                                                                           =
+                 
+                                                                           =
+                     
+                                                                           =
+                         
+                                                                           =
+                             
+                                                                           =
+                                 B=E1=BA=A1n c=C3=B3 th=E1=BA=AFc m=E1=BA=
+=AFc ? Email cho ch=C3=BAng t=C3=B4i t=E1=BA=A1i support@freelancerviet.vn
+                                                                           =
+                             
+                                                                           =
+                         
+                                                                           =
+                     
+                                                                           =
+                 
+                                                                           =
+             
+                                                                           =
+         
+                                                                           =
+     
+                                                                           =
+ 
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                                    
+                                                                        Fin=
+d us on Facebook
+                                                                    
+                                                                
+                                                                
+                                                                    
+                                                                        Cop=
+yright =C2=A9 2013 FreelancerViet
+
+
+
+
+--_av-Ws_iYyhuNE-o7SpECx4NGg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<meta style=3D"visibility: hidden !important; display: block !important; wi=
+dth: 0px !important;
+    height: 0px !important; border-style: none !important;">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+</head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0"=
+ offset=3D"0" style=3D"-webkit-text-size-adjust: none;
+    margin: 0; padding: 0; background-color: #3b86c4; width: 100% !importan=
+t;">
+    <center>
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"1=
+00%" width=3D"100%" id=3D"bodyTable" style=3D"margin: 0; padding: 0; backgr=
+ound-color: #3b86c4; height: 100% !important;
+            width: 100% !important;">
+            <tbody>
+                <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding-to=
+p:0px; padding-bottom: 40px; border-collapse: collapse;">
+                        <!-- // BEGIN CONTAINER -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"templateContainer" style=3D"border: 0;">
+                            <tbody>
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" sty=
+le=3D"border-collapse: collapse;">
+                                        <!-- // BEGIN BODY -->
+                                        <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"600" id=3D"templateBody" style=3D"background-=
+color: #3b86c4;
+                                            border-top: 0; border-bottom: 0=
+;">
+                                            <tbody>
+                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"bottom" style=3D"padding-bottom: 20px; border-collapse: collapse;
+                                                        padding-top: 10px;"=
+ bgcolor=3D"#3b86c4">
+                                                        <img src=3D"http://=
+freelancerviet.vn/templates/freelancerviet/images/fv-logo.gif" alt=3D"" id=
+=3D"bodyImage" style=3D"margin: 0; padding: 0;
+                                                            max-width: 215p=
+x; border: 0; height: auto; line-height: 100%; outline: none;
+                                                            text-decoration=
+: none;" border=3D"0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"top" style=3D"padding-bottom: 20px; border-collapse: collapse;">
+                                                        <table border=3D"0"=
+ cellpadding=3D"20" cellspacing=3D"0" width=3D"560" id=3D"bodyContentBlock"=
+ style=3D"background-color: #fff; border-bottom: 1px solid #007ABE; border-=
+right: 1px solid #007ABE;
+                                                            font-size: 12px=
+; border-radius: 6px; -webkit-box-shadow: 0 0 50px rgba(255, 255, 255, 0.5)=
+, 0 1px 2px rgba(0, 0, 0, 0.3);
+                                                            -moz-box-shadow=
+: 0 0 50px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+                                                            box-shadow: 0 0=
+ 50px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td ali=
+gn=3D"center" valign=3D"top" style=3D"padding-top: 30px; padding-bottom: 30=
+px; border-collapse: collapse;">
+                                                                        <ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                           =
+ <tbody>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"center" valign=3D"top" style=3D"border-collapse: coll=
+apse; color: #222222;
+                                                                           =
+             font-family: Arial, Helvetica, sans-serif;">
+                                                                           =
+             <h1 style=3D"font-family: Arial, Helvetica, sans-serif; text-t=
+ransform: uppercase;
+                                                                           =
+                 font-size: 27px; line-height: 35px; margin-top: 23px">
+                                                                           =
+                 C=E1=BA=ADp nh=E1=BA=ADt th=C3=B4ng tin
+                                                                           =
+             </h1>
+                                                                           =
+             <p style=3D"font-size: 18px; line-height: 23px; margin-bottom:=
+ 20px; color: #878787;text-align:left;">
+                                                                           =
+                 Ch=C3=A0o Nguy=E1=BB=85n Thi=C3=AAn V=C4=A9,
+                                                                           =
+                 <br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Vui l=
+=C3=B2ng click v=C3=A0o link b=C3=AAn d=C6=B0=E1=BB=9Bi v=C3=A0 s=E1=BB=AD =
+d=E1=BB=A5ng m=C3=A3 x=C3=A1c nh=E1=BA=ADn =C4=91=E1=BB=83 x=C3=A1c nh=E1=
+=BA=ADn th=C3=B4ng tin b=E1=BA=A1n =C4=91=C3=A3 c=E1=BA=ADp nh=E1=BA=ADt.<b=
+r>
+                                                                           =
+                 M=C3=A3 x=C3=A1c nh=E1=BA=ADn : <strong>u48pAuG</strong><b=
+r>
+                                                                           =
+                 Link x=C3=A1c nh=E1=BA=ADn : http://freelancerviet.vn/free=
+lancer/xac-nhan/25968da0895a70dc1bcf72a0e40089f9
+                                                                           =
+             </p>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D"left" valign=3D"top" style=3D"margin: 0px; padding: 0=
+px; font-family: Arial,Helvetica,sans-serif;
+                                                                           =
+             color: rgb(38,38,38); font-size: 12px; border-top: 1px solid #=
+e0e0e0;">
+                                                                           =
+             <table align=3D"left" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+                                                                           =
+                 <tbody>
+                                                                           =
+                     <tr>
+                                                                           =
+                         <td align=3D"center" valign=3D"top" style=3D"margi=
+n: 0px; font-family: Arial,Helvetica,sans-serif;
+                                                                           =
+                             color: rgb(38,38,38); font-size: 14px">
+                                                                           =
+                             <p style=3D"font-size: 16px; color: #666; marg=
+in: 35px 0">
+                                                                           =
+                                 B=E1=BA=A1n c=C3=B3 th=E1=BA=AFc m=E1=BA=
+=AFc ? Email cho ch=C3=BAng t=C3=B4i t=E1=BA=A1i <a href=3D"mailto:support@=
+freelancerviet.vn" style=3D"font-weight: bold; color: #666; text-decoration=
+: none" target=3D"_blank">support@freelancerviet.vn</a>
+                                                                           =
+                             </p>
+                                                                           =
+                         </td>
+                                                                           =
+                     </tr>
+                                                                           =
+                 </tbody>
+                                                                           =
+             </table>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+ </tbody>
+                                                                        </t=
+able>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <!-- END BODY \\ -->
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" sty=
+le=3D"border-collapse: collapse;background-color: #202020;" width=3D"100%">
+                                        <!-- // BEGIN FOOTER -->
+                                        <table border=3D"0" cellpadding=3D"=
+20" cellspacing=3D"0" width=3D"600px" id=3D"templateFooter" style=3D"backgr=
+ound-color: #202020; border-top: 1px solid #303030;">
+                                            <tbody>
+                                                <tr>
+                                                    <td align=3D"center" va=
+lign=3D"top" style=3D"border-collapse: collapse;">
+                                                        <table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td val=
+ign=3D"top" class=3D"footerContent" style=3D"padding-bottom: 20px; border-c=
+ollapse: collapse;
+                                                                        col=
+or: #808080; font-family: Helvetica; font-size: 10px; line-height: 150%; te=
+xt-align: left;">
+                                                                        <a =
+href=3D"http://mandrillapp.com/track/click.php?u=3D30053007&id=3D2f849157fe=
+704d758c8ce4b69c6c01a8&url=3Dhttps%3A%2F%2Fwww.facebook.com%2FcongdongFreel=
+ancerViet&url_id=3D157a6d988b63d347d3018ad4141ceaf74e1e924a" style=3D"color=
+: #606060;
+                                                                           =
+ font-weight: normal; text-decoration: underline;">Find us on Facebook</a>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td val=
+ign=3D"top" class=3D"footerContent" style=3D"border-collapse: collapse; col=
+or: #808080;
+                                                                        fon=
+t-family: Helvetica; font-size: 10px; line-height: 150%; text-align: left;"=
+>
+                                                                        <em=
+>Copyright =C2=A9 2013 FreelancerViet</em>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <!-- END FOOTER \\ -->
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- END CONTAINER \\ -->
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+<img src=3D"http://mandrillapp.com/track/open.php?u=3D30053007&id=3D2f84915=
+7fe704d758c8ce4b69c6c01a8" height=3D"1" width=3D"1"></body>
+</html>
+
+
+
+
+
+--_av-Ws_iYyhuNE-o7SpECx4NGg--
